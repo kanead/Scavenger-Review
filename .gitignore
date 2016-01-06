@@ -1,3 +1,17 @@
+# LaTeX #
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.fff
+*.lof
+*.lot
+*.out
+*.toc
+*.ttt
+*.fdb_latexmk
+*.fls
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
