@@ -1,4 +1,4 @@
-\begin{thebibliography}{36}
+\begin{thebibliography}{39}
 \providecommand{\natexlab}[1]{#1}
 
 \bibitem[{Bates and Falkingham(2012)}]{bates2012estimating}
@@ -46,6 +46,11 @@ Chure, D. and Fiorillo, A. 1997.
   specimen of allosaurus from the morrison formation (late jurassic) of
   wyoming.
 \newblock -- Journal of Vertebrate Paleontology 17: 38A.
+
+\bibitem[{DeVault and Krochmal(2002)}]{devault2002scavenging}
+DeVault, T.~L. and Krochmal, A.~R. 2002.
+\newblock Scavenging by snakes: an examination of the literature.
+\newblock -- Herpetologica 58: 429--436.
 
 \bibitem[{DeVault et~al.(2003)}]{devault2003scavenging}
 DeVault, T.~L. et~al. 2003.
@@ -149,6 +154,17 @@ Ruxton, G.~D. and Houston, D.~C. 2004{\natexlab{a}}.
 Ruxton, G.~D. and Houston, D.~C. 2004{\natexlab{b}}.
 \newblock Obligate vertebrate scavengers must be large soaring fliers.
 \newblock -- Journal of Theoretical Biology 228: 431--436.
+
+\bibitem[{Savitzky(1992)}]{savitzky1992laboratory}
+Savitzky, B.~A. 1992.
+\newblock Laboratory studies on piscivory in an opportunistic pitviper, the
+  cottonmouth, agkistrodon piscivorus.
+\newblock -- Biology of the Pitvipers : 347--368.
+
+\bibitem[{SAZIMA and Str{\"u}ssmann(1990)}]{sazima1990necrofagia}
+SAZIMA, I. and Str{\"u}ssmann, C. 1990.
+\newblock Necrofagia em serpentes brasileiras: exemplos e previs{\~o}es.
+\newblock -- Revista Brasileira de Biologia 50: 463--468.
 
 \bibitem[{Schubert and Ungar(2005)}]{schubert2005wear}
 Schubert, B.~W. and Ungar, P.~S. 2005.
