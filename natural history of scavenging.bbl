@@ -1,4 +1,4 @@
-\begin{thebibliography}{39}
+\begin{thebibliography}{40}
 \providecommand{\natexlab}[1]{#1}
 
 \bibitem[{Bates and Falkingham(2012)}]{bates2012estimating}
@@ -59,6 +59,12 @@ DeVault, T.~L. et~al. 2003.
   ecosystems.
 \newblock -- Oikos 102: 225--234.
 
+\bibitem[{Don{\'a}zar et~al.(2002)}]{donazar2002effects}
+Don{\'a}zar, J.~A. et~al. 2002.
+\newblock Effects of forestry and other land-use practices on the conservation
+  of cinereous vultures.
+\newblock -- Ecological Applications 12: 1445--1456.
+
 \bibitem[{Ehret et~al.(2009)}]{ehret2009caught}
 Ehret, D.~J. et~al. 2009.
 \newblock Caught in the act: trophic interactions between a 4-million-year-old
@@ -75,6 +81,11 @@ Farlow, J. and Brinkman, D. 1994.
 Farlow, J.~O. 1994.
 \newblock Speculations about the carrion-locating ability of tyrannosaurs.
 \newblock -- Historical Biology 7: 159--165.
+
+\bibitem[{Ferguson-Lees and Christie(2001)}]{ferguson2001raptors}
+Ferguson-Lees, J. and Christie, D.~A. 2001.
+\newblock Raptors of the world.
+\newblock -- Houghton Mifflin Harcourt.
 
 \bibitem[{Hedenstrom(1993)}]{hedenstrom1993migration}
 Hedenstrom, A. 1993.
@@ -155,17 +166,6 @@ Ruxton, G.~D. and Houston, D.~C. 2004{\natexlab{b}}.
 \newblock Obligate vertebrate scavengers must be large soaring fliers.
 \newblock -- Journal of Theoretical Biology 228: 431--436.
 
-\bibitem[{Savitzky(1992)}]{savitzky1992laboratory}
-Savitzky, B.~A. 1992.
-\newblock Laboratory studies on piscivory in an opportunistic pitviper, the
-  cottonmouth, agkistrodon piscivorus.
-\newblock -- Biology of the Pitvipers : 347--368.
-
-\bibitem[{SAZIMA and Str{\"u}ssmann(1990)}]{sazima1990necrofagia}
-SAZIMA, I. and Str{\"u}ssmann, C. 1990.
-\newblock Necrofagia em serpentes brasileiras: exemplos e previs{\~o}es.
-\newblock -- Revista Brasileira de Biologia 50: 463--468.
-
 \bibitem[{Schubert and Ungar(2005)}]{schubert2005wear}
 Schubert, B.~W. and Ungar, P.~S. 2005.
 \newblock Wear facets and enamel spalling in tyrannosaurid dinosaurs.
@@ -192,6 +192,12 @@ Selva, N. and Fortuna, M.~A. 2007.
 Smith, C.~R. and Baco, A.~R. 2003.
 \newblock Ecology of whale falls at the deep-sea floor.
 \newblock -- Oceanography and marine biology 41: 311--354.
+
+\bibitem[{Spiegel et~al.(2013)}]{spiegel2013factors}
+Spiegel, O. et~al. 2013.
+\newblock Factors influencing foraging search efficiency: why do scarce
+  lappet-faced vultures outperform ubiquitous white-backed vultures?
+\newblock -- The American Naturalist 181: E102--E115.
 
 \bibitem[{Tucker(1975)}]{tucker1975energetic}
 Tucker, V.~A. 1975.
