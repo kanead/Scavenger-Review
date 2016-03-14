@@ -18,12 +18,6 @@ Blasco, R. et~al. 2014.
   percussion by batting bone on an anvil and hammerstone percussion.
 \newblock -- Archaeometry 56: 1085--1104.
 
-\bibitem[{Boessenecker and Perry(2011)}]{boessenecker2011mammalian}
-Boessenecker, R.~W. and Perry, F.~A. 2011.
-\newblock Mammalian bite marks on juvenile fur seal bones from the late neogene
-  purisima formation of central california.
-\newblock -- Palaios 26: 115--120.
-
 \bibitem[{Britton and Morton(1994)}]{britton1994marine}
 Britton, J.~C. and Morton, B. 1994.
 \newblock Marine carrion and scavengers.
@@ -34,6 +28,13 @@ Brown, C.~J. 1989.
 \newblock A study of the Bearded Vulture \textit{Gypaetus barbatus} in southern
   Africa.
 \newblock Ph.D. thesis, University of Natal (Pietermaritzburg).
+
+\bibitem[{Carbone et~al.(2011)}]{carbone2011intra}
+Carbone, C. et~al. 2011.
+\newblock Intra-guild competition and its implications for one of the biggest
+  terrestrial predators, \textit{Tyrannosaurus rex}.
+\newblock -- Proceedings of the Royal Society B: Biological Sciences 278:
+  2682--2690.
 
 \bibitem[{Chin et~al.(1998)}]{chin1998king}
 Chin, K. et~al. 1998.
@@ -46,6 +47,12 @@ Chure, D. and Fiorillo, A. 1997.
   specimen of allosaurus from the morrison formation (late jurassic) of
   wyoming.
 \newblock -- Journal of Vertebrate Paleontology 17: 38A.
+
+\bibitem[{DePalma et~al.(2013)}]{depalma2013physical}
+DePalma, R.~A. et~al. 2013.
+\newblock Physical evidence of predatory behavior in \textit{Tyrannosaurus
+  rex}.
+\newblock -- Proceedings of the National Academy of Sciences 110: 12560--12564.
 
 \bibitem[{DeVault and Krochmal(2002)}]{devault2002scavenging}
 DeVault, T.~L. and Krochmal, A.~R. 2002.
@@ -77,15 +84,15 @@ Farlow, J. and Brinkman, D. 1994.
 \newblock In: Dino Fest; Proceedings of a Conference for the General Public.
   Palaeontological Society Special Publications, vol.~7. pp. 165--175.
 
-\bibitem[{Farlow(1994)}]{farlow1994speculations}
-Farlow, J.~O. 1994.
-\newblock Speculations about the carrion-locating ability of tyrannosaurs.
-\newblock -- Historical Biology 7: 159--165.
-
 \bibitem[{Ferguson-Lees and Christie(2001)}]{ferguson2001raptors}
 Ferguson-Lees, J. and Christie, D.~A. 2001.
 \newblock Raptors of the world.
 \newblock -- Houghton Mifflin Harcourt.
+
+\bibitem[{Grady et~al.(2014)}]{grady2014evidence}
+Grady, J.~M. et~al. 2014.
+\newblock Evidence for mesothermy in dinosaurs.
+\newblock -- Science 344: 1268--1272.
 
 \bibitem[{Hedenstrom(1993)}]{hedenstrom1993migration}
 Hedenstrom, A. 1993.
@@ -99,39 +106,32 @@ Hone, D.~W. and Rauhut, O.~W. 2010.
 \newblock Feeding behaviour and bone utilization by theropod dinosaurs.
 \newblock -- Lethaia 43: 232--244.
 
-\bibitem[{Hungerb{\"u}hler(1998)}]{hungerbuhler1998taphonomy}
-Hungerb{\"u}hler, A. 1998.
-\newblock Taphonomy of the prosauropod dinosaur sellosaurus, and its
-  implications for carnivore faunas and feeding habits in the late triassic.
-\newblock -- Palaeogeography, Palaeoclimatology, Palaeoecology 143: 1--29.
+\bibitem[{Mart{\'\i}n-Serra et~al.(2016)}]{martin2016pursuit}
+Mart{\'\i}n-Serra, A. et~al. 2016.
+\newblock In the pursuit of the predatory behavior of borophagines (mammalia,
+  carnivora, canidae): Inferences from forelimb morphology.
+\newblock -- Journal of Mammalian Evolution : 1--13.
 
-\bibitem[{Ogada et~al.(2012)}]{ogada2012dropping}
-Ogada, D.~L. et~al. 2012.
-\newblock Dropping dead: causes and consequences of vulture population declines
-  worldwide.
-\newblock -- Annals of the New York Academy of Sciences 1249: 57--71.
+\bibitem[{Nagy(2005)}]{Nagy1621}
+Nagy, K.~A. 2005.
+\newblock Field metabolic rate and body size.
+\newblock -- Journal of Experimental Biology 208: 1621--1625.
 
 \bibitem[{O’Gorman and Hone(2012)}]{10.1371/journal.pone.0051925}
 O’Gorman, E.~J. and Hone, D. W.~E. 2012.
 \newblock Body size distribution of the dinosaurs.
 \newblock -- PLoS ONE 7: e51925.
 
-\bibitem[{Pennycuick(1972)}]{pennycuick1972soaring}
-Pennycuick, C. 1972.
-\newblock Soaring behaviour and performance of some east african birds,
-  observed from a motor-glider.
-\newblock -- Ibis 114: 178--218.
+\bibitem[{Palmqvist et~al.(2011)}]{palmqvist2011giant}
+Palmqvist, P. et~al. 2011.
+\newblock The giant hyena \textit{Pachycrocuta brevirostris}: modelling the
+  bone-cracking behavior of an extinct carnivore.
+\newblock -- Quaternary International 243: 61--79.
 
 \bibitem[{Pobiner(2008)}]{pobiner2008paleoecological}
 Pobiner, B. 2008.
 \newblock Paleoecological information in predator tooth marks.
 \newblock -- Journal of taphonomy 6: 373--397.
-
-\bibitem[{Pobiner(2015)}]{pobiner2015new}
-Pobiner, B.~L. 2015.
-\newblock New actualistic data on the ecology and energetics of hominin
-  scavenging opportunities.
-\newblock -- Journal of human evolution 80: 1--16.
 
 \bibitem[{Prange et~al.(1979)}]{prange1979scaling}
 Prange, H.~D. et~al. 1979.
@@ -149,12 +149,25 @@ Reisz, R.~R. and Tsuji, L.~A. 2006.
   oldest known evidence of scavenging among terrestrial vertebrates.
 \newblock -- Journal of Vertebrate Paleontology 26: 1021--1023.
 
+\bibitem[{Ruben(1995)}]{ruben1995evolution}
+Ruben, J. 1995.
+\newblock The evolution of endothermy in mammals and birds: from physiology to
+  fossils.
+\newblock -- Annual Review of Physiology 57: 69--95.
+
 \bibitem[{Ruxton and Bailey(2005)}]{ruxton2005searching}
 Ruxton, G.~D. and Bailey, D.~M. 2005.
 \newblock Searching speeds and the energetic feasibility of an obligate
   whale-scavenging fish.
 \newblock -- Deep Sea Research Part I: Oceanographic Research Papers 52:
   1536--1541.
+
+\bibitem[{Ruxton and Houston(2003)}]{ruxton2003could}
+Ruxton, G.~D. and Houston, D.~C. 2003.
+\newblock Could \textit{Tyrannosaurus rex} have been a scavenger rather than a
+  predator? an energetics approach.
+\newblock -- Proceedings of the Royal Society of London. Series B: Biological
+  Sciences 270: 731--733.
 
 \bibitem[{Ruxton and Houston(2004{\natexlab{a}})}]{ruxton2004energetic}
 Ruxton, G.~D. and Houston, D.~C. 2004{\natexlab{a}}.
@@ -166,6 +179,11 @@ Ruxton, G.~D. and Houston, D.~C. 2004{\natexlab{b}}.
 \newblock Obligate vertebrate scavengers must be large soaring fliers.
 \newblock -- Journal of Theoretical Biology 228: 431--436.
 
+\bibitem[{SAZIMA and Str{\"u}ssmann(1990)}]{sazima1990necrofagia}
+SAZIMA, I. and Str{\"u}ssmann, C. 1990.
+\newblock Necrofagia em serpentes brasileiras: exemplos e previs{\~o}es.
+\newblock -- Revista Brasileira de Biologia 50: 463--468.
+
 \bibitem[{Schubert and Ungar(2005)}]{schubert2005wear}
 Schubert, B.~W. and Ungar, P.~S. 2005.
 \newblock Wear facets and enamel spalling in tyrannosaurid dinosaurs.
@@ -176,17 +194,6 @@ Schwimmer, D.~R. et~al. 1997.
 \newblock Scavenging by sharks of the genus squalicorax in the late cretaceous
   of north america.
 \newblock -- Palaios : 71--83.
-
-\bibitem[{Sekercioglu(2006)}]{sekercioglu2006increasing}
-Sekercioglu, C.~H. 2006.
-\newblock Increasing awareness of avian ecological function.
-\newblock -- Trends in Ecology \& Evolution 21: 464--471.
-
-\bibitem[{Selva and Fortuna(2007)}]{selva2007nested}
-Selva, N. and Fortuna, M.~A. 2007.
-\newblock The nested structure of a scavenger community.
-\newblock -- Proceedings of the Royal Society B: Biological Sciences 274:
-  1101--1108.
 
 \bibitem[{Smith and Baco(2003)}]{smith2003ecology}
 Smith, C.~R. and Baco, A.~R. 2003.
@@ -206,22 +213,16 @@ Tucker, V.~A. 1975.
   birds, fish and bicyclists.
 \newblock -- American Scientist 63: 413--419.
 
-\bibitem[{van Netten and Reumer(2009)}]{van2009bite}
-van Netten, H. and Reumer, J. 2009.
-\newblock Bite marks on early holocene tursiops truncatus fossils from the
-  north sea indicate scavenging by rays (chondrichthyes, rajidae).
-\newblock -- Netherlands Journal of Geosciences 88: 169--175.
+\bibitem[{Van~Valkenburgh et~al.(2003)}]{van2003chapter}
+Van~Valkenburgh, B. et~al. 2003.
+\newblock Chapter 7: Pack hunting in miocene borophagine dogs: Evidence from
+  craniodental morphology and body size.
+\newblock -- Bulletin of the American Museum of Natural History : 147--162.
 
-\bibitem[{Wilson and Wolkovich(2011)}]{wilson2011scavenging}
-Wilson, E.~E. and Wolkovich, E.~M. 2011.
-\newblock Scavenging: how carnivores and carrion structure communities.
-\newblock -- Trends in Ecology \& Evolution 26: 129--135.
-
-\bibitem[{Witton and Habib(2010)}]{witton2010size}
-Witton, M.~P. and Habib, M.~B. 2010.
-\newblock On the size and flight diversity of giant pterosaurs, the use of
-  birds as pterosaur analogues and comments on pterosaur flightlessness.
-\newblock -- PLOS ONE 5: e13982.
+\bibitem[{Weishampel et~al.(2004)}]{weishampel2004dinosauria}
+Weishampel, D.~B. et~al. 2004.
+\newblock The dinosauria.
+\newblock -- University of California Press.
 
 \bibitem[{Witton and Naish(2008)}]{witton2008reappraisal}
 Witton, M.~P. and Naish, D. 2008.
