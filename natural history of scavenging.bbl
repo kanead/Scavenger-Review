@@ -1,5 +1,11 @@
-\begin{thebibliography}{40}
+\begin{thebibliography}{56}
 \providecommand{\natexlab}[1]{#1}
+
+\bibitem[{Bamford et~al.(2007)}]{bamford2007ranging}
+Bamford, A.~J. et~al. 2007.
+\newblock Ranging behaviour of cape vultures \textit{Gyps coprotheres} from an
+  endangered population in namibia.
+\newblock -- Bird Conservation International 17: 331--339.
 
 \bibitem[{Bates and Falkingham(2012)}]{bates2012estimating}
 Bates, K. and Falkingham, P. 2012.
@@ -35,6 +41,12 @@ Carbone, C. et~al. 2011.
   terrestrial predators, \textit{Tyrannosaurus rex}.
 \newblock -- Proceedings of the Royal Society B: Biological Sciences 278:
   2682--2690.
+
+\bibitem[{Carrier(1987)}]{carrier1987evolution}
+Carrier, D.~R. 1987.
+\newblock The evolution of locomotor stamina in tetrapods: circumventing a
+  mechanical constraint.
+\newblock -- Paleobiology : 326--341.
 
 \bibitem[{Chin et~al.(1998)}]{chin1998king}
 Chin, K. et~al. 1998.
@@ -78,6 +90,19 @@ Ehret, D.~J. et~al. 2009.
   white shark (carcharodon) and mysticete whale from peru.
 \newblock -- Palaios 24: 329--333.
 
+\bibitem[{Enstipp et~al.(2006)}]{Enstipp2006Energetics}
+Enstipp, M. et~al. 2006.
+\newblock Foraging energetics of north sea birds confronted with fluctuating
+  prey availability.
+\newblock --~In: Boyd, I. et~al. (eds.), Top Predators in Marine Ecosystems,
+  chap.~13. Cambridge University Press, Cambridge, UK, pp. 191--210.
+
+\bibitem[{Fahlke(2012)}]{fahlke2012bite}
+Fahlke, J.~M. 2012.
+\newblock Bite marks revisited—evidence for middle-to-late eocene
+  basilosaurus isis predation on dorudon atrox (both cetacea, basilosauridae).
+\newblock -- Palaeontologia Electronica 15: 32A.
+
 \bibitem[{Farlow and Brinkman(1994)}]{farlow1994wear}
 Farlow, J. and Brinkman, D. 1994.
 \newblock Wear surfaces on the teeth of tyrannosaurs.
@@ -88,6 +113,17 @@ Farlow, J. and Brinkman, D. 1994.
 Ferguson-Lees, J. and Christie, D.~A. 2001.
 \newblock Raptors of the world.
 \newblock -- Houghton Mifflin Harcourt.
+
+\bibitem[{Fern{\'a}ndez-Bellon et~al.(2015)}]{fernandez2015density}
+Fern{\'a}ndez-Bellon, D. et~al. 2015.
+\newblock Density-dependent productivity in a colonial vulture at two spatial
+  scales.
+\newblock -- Ecology .
+
+\bibitem[{Gittleman(2013)}]{gittleman2013carnivore}
+Gittleman, J.~L. 2013.
+\newblock Carnivore behavior, ecology, and evolution.
+\newblock -- Springer Science \& Business Media.
 
 \bibitem[{Grady et~al.(2014)}]{grady2014evidence}
 Grady, J.~M. et~al. 2014.
@@ -106,11 +142,45 @@ Hone, D.~W. and Rauhut, O.~W. 2010.
 \newblock Feeding behaviour and bone utilization by theropod dinosaurs.
 \newblock -- Lethaia 43: 232--244.
 
+\bibitem[{Houston(1986)}]{houston1986olfaction}
+Houston, D.~C. 1986.
+\newblock Scavenging efficiency of turkey vultures in tropical forest.
+\newblock -- The Condor 88: 318--323.
+
+\bibitem[{Jackson et~al.(2008)}]{jackson2008effect}
+Jackson, A.~L. et~al. 2008.
+\newblock The effect of social facilitation on foraging success in vultures: a
+  modelling study.
+\newblock -- Biology Letters 4: 311--313.
+
+\bibitem[{Kane et~al.(2014)}]{KaneVul}
+Kane, A. et~al. 2014.
+\newblock Vultures acquire information on carcass location from scavenging
+  eagles.
+\newblock -- Proceedings of the Royal Society of London B: Biological Sciences
+  281.
+
+\bibitem[{Koenig(2006)}]{manga2006vulture}
+Koenig, R. 2006.
+\newblock Vulture research soars as the scavengers' numbers decline.
+\newblock -- Science 312.
+
+\bibitem[{Lisney et~al.(2013)}]{AR:AR22815}
+Lisney, T.~J. et~al. 2013.
+\newblock Comparison of eye morphology and retinal topography in two species of
+  new world vultures (aves: Cathartidae).
+\newblock -- The Anatomical Record 296: 1954--1970.
+
 \bibitem[{Mart{\'\i}n-Serra et~al.(2016)}]{martin2016pursuit}
 Mart{\'\i}n-Serra, A. et~al. 2016.
 \newblock In the pursuit of the predatory behavior of borophagines (mammalia,
   carnivora, canidae): Inferences from forelimb morphology.
 \newblock -- Journal of Mammalian Evolution : 1--13.
+
+\bibitem[{Mundy et~al.(1992)}]{mundy1992vultures}
+Mundy, P.~J. et~al. 1992.
+\newblock The vultures of Africa.
+\newblock -- Academic Press London.
 
 \bibitem[{Nagy(2005)}]{Nagy1621}
 Nagy, K.~A. 2005.
@@ -132,6 +202,12 @@ Palmqvist, P. et~al. 2011.
 Pobiner, B. 2008.
 \newblock Paleoecological information in predator tooth marks.
 \newblock -- Journal of taphonomy 6: 373--397.
+
+\bibitem[{Pobiner(2015)}]{pobiner2015new}
+Pobiner, B.~L. 2015.
+\newblock New actualistic data on the ecology and energetics of hominin
+  scavenging opportunities.
+\newblock -- Journal of human evolution 80: 1--16.
 
 \bibitem[{Prange et~al.(1979)}]{prange1979scaling}
 Prange, H.~D. et~al. 1979.
@@ -179,8 +255,8 @@ Ruxton, G.~D. and Houston, D.~C. 2004{\natexlab{b}}.
 \newblock Obligate vertebrate scavengers must be large soaring fliers.
 \newblock -- Journal of Theoretical Biology 228: 431--436.
 
-\bibitem[{SAZIMA and Str{\"u}ssmann(1990)}]{sazima1990necrofagia}
-SAZIMA, I. and Str{\"u}ssmann, C. 1990.
+\bibitem[{Sazima and Str{\"u}ssmann(1990)}]{sazima1990necrofagia}
+Sazima, I. and Str{\"u}ssmann, C. 1990.
 \newblock Necrofagia em serpentes brasileiras: exemplos e previs{\~o}es.
 \newblock -- Revista Brasileira de Biologia 50: 463--468.
 
@@ -206,6 +282,11 @@ Spiegel, O. et~al. 2013.
   lappet-faced vultures outperform ubiquitous white-backed vultures?
 \newblock -- The American Naturalist 181: E102--E115.
 
+\bibitem[{Tenney(1877)}]{tenney1877few}
+Tenney, S. 1877.
+\newblock A few words about scavengers.
+\newblock -- The American Naturalist 11: 129--135.
+
 \bibitem[{Tucker(1975)}]{tucker1975energetic}
 Tucker, V.~A. 1975.
 \newblock The energetic cost of moving about: Walking and running are extremely
@@ -223,6 +304,17 @@ Van~Valkenburgh, B. et~al. 2003.
 Weishampel, D.~B. et~al. 2004.
 \newblock The dinosauria.
 \newblock -- University of California Press.
+
+\bibitem[{Whitehead and Reeves(2005)}]{Whitehead415}
+Whitehead, H. and Reeves, R. 2005.
+\newblock Killer whales and whaling: the scavenging hypothesis.
+\newblock -- Biology Letters 1: 415--418.
+
+\bibitem[{Witton and Habib(2010)}]{witton2010size}
+Witton, M.~P. and Habib, M.~B. 2010.
+\newblock On the size and flight diversity of giant pterosaurs, the use of
+  birds as pterosaur analogues and comments on pterosaur flightlessness.
+\newblock -- PLOS ONE 5: e13982.
 
 \bibitem[{Witton and Naish(2008)}]{witton2008reappraisal}
 Witton, M.~P. and Naish, D. 2008.
