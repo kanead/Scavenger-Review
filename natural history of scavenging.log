@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.24)  16 MAR 2016 18:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.24)  18 MAR 2016 15:27
 entering extended mode
 **"C:/Users/akane/Desktop/Science/Manuscripts/Ecography Scavenger Review/natura
 l history of scavenging.tex"
@@ -514,48 +514,48 @@ File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 Package ragged2e Info: ABD: executing \RaggedRight on input line 28.
  ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 28.
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 41.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 30.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 41.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 30.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 41.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 30.
 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 41.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 30.
 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 41.
+(Font)              <12> on input line 30.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 41.
+(Font)              <8> on input line 30.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 41.
+(Font)              <6> on input line 30.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 41.
+(Font)              <14.4> on input line 30.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 41.
+(Font)              <10> on input line 30.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 41.
+(Font)              <7> on input line 30.
 
-Overfull \hbox (36.22934pt too wide) in paragraph at lines 41--41
+Overfull \hbox (36.22934pt too wide) in paragraph at lines 30--30
  [][] 
  []
 
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 41.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 41.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 30.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 30.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd"
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [1
@@ -570,7 +570,7 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
 Here is how much of TeX's memory you used:
  3841 strings out of 493673
  52274 string characters out of 3141529
- 114109 words of memory out of 3000000
+ 115109 words of memory out of 3000000
  7098 multiletter control sequences out of 15000+200000
  60220 words of font info for 48 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
@@ -586,7 +586,7 @@ am Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsso12.pfb><C:/Program Files (
 x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files (x86)/MiKTeX
  2.9/fonts/type1/public/lm/lmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
 ype1/public/lm/lmtti10.pfb>
-Output written on "natural history of scavenging.pdf" (20 pages, 204721 bytes).
+Output written on "natural history of scavenging.pdf" (20 pages, 204869 bytes).
 
 PDF statistics:
  105 PDF objects out of 1000 (max. 8388607)
