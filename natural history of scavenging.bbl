@@ -1,17 +1,18 @@
-\begin{thebibliography}{59}
+\begin{thebibliography}{73}
 \providecommand{\natexlab}[1]{#1}
-
-\bibitem[{Bamford et~al.(2007)}]{bamford2007ranging}
-Bamford, A.~J. et~al. 2007.
-\newblock Ranging behaviour of cape vultures \textit{Gyps coprotheres} from an
-  endangered population in namibia.
-\newblock -- Bird Conservation International 17: 331--339.
 
 \bibitem[{Bates and Falkingham(2012)}]{bates2012estimating}
 Bates, K. and Falkingham, P. 2012.
 \newblock Estimating maximum bite performance in \textit{Tyrannosaurus rex}
   using multi-body dynamics.
 \newblock -- Biology Letters 8: 660--664.
+
+\bibitem[{Beasley et~al.(2015)}]{beasley2015vertebrates}
+Beasley, J. et~al. 2015.
+\newblock Ecological role of vertebrate scavengers.
+\newblock --~In: Benbow, M.~E. et~al. (eds.), Introduction to Carrion Ecology,
+  Evolution, and Their Applications, chap.~6. CRC Press, Boca Raton, Florida,
+  USA, pp. 107--128.
 
 \bibitem[{Benbow et~al.(2015)}]{benbow2015introduction}
 Benbow, M.~E. et~al. 2015.
@@ -95,6 +96,11 @@ Ehret, D.~J. et~al. 2009.
   white shark (carcharodon) and mysticete whale from peru.
 \newblock -- Palaios 24: 329--333.
 
+\bibitem[{Eiting and Gunnell(2009)}]{eiting2009global}
+Eiting, T.~P. and Gunnell, G.~F. 2009.
+\newblock Global completeness of the bat fossil record.
+\newblock -- Journal of Mammalian Evolution 16: 151--173.
+
 \bibitem[{Enstipp et~al.(2006)}]{Enstipp2006Energetics}
 Enstipp, M. et~al. 2006.
 \newblock Foraging energetics of north sea birds confronted with fluctuating
@@ -114,6 +120,11 @@ Farlow, J. and Brinkman, D. 1994.
 \newblock In: Dino Fest; Proceedings of a Conference for the General Public.
   Palaeontological Society Special Publications, vol.~7. pp. 165--175.
 
+\bibitem[{Farlow(1994)}]{farlow1994speculations}
+Farlow, J.~O. 1994.
+\newblock Speculations about the carrion-locating ability of tyrannosaurs.
+\newblock -- Historical Biology 7: 159--165.
+
 \bibitem[{Ferguson-Lees and Christie(2001)}]{ferguson2001raptors}
 Ferguson-Lees, J. and Christie, D.~A. 2001.
 \newblock Raptors of the world.
@@ -124,6 +135,12 @@ Fern{\'a}ndez-Bellon, D. et~al. 2015.
 \newblock Density-dependent productivity in a colonial vulture at two spatial
   scales.
 \newblock -- Ecology .
+
+\bibitem[{Forrest(2003)}]{forrest2003evidence}
+Forrest, R. 2003.
+\newblock Evidence for scavenging by the marine crocodile metriorhynchus on the
+  carcass of a plesiosaur.
+\newblock -- Proceedings of the Geologists' Association 114: 363--366.
 
 \bibitem[{Gittleman(2013)}]{gittleman2013carnivore}
 Gittleman, J.~L. 2013.
@@ -158,6 +175,24 @@ Jackson, A.~L. et~al. 2008.
   modelling study.
 \newblock -- Biology Letters 4: 311--313.
 
+\bibitem[{Jarvis et~al.(2014)}]{Jarvis2014}
+Jarvis, E.~D. et~al. 2014.
+\newblock Whole-genome analyses resolve early branches in the tree of life of
+  modern birds.
+\newblock -- Science 346: 1320--1331.
+
+\bibitem[{Jetz et~al.(2012)}]{Jetz2012}
+Jetz, W. et~al. 2012.
+\newblock The global diversity of birds in space and time.
+\newblock -- Nature 491: 444--448.
+
+\bibitem[{Jones et~al.(2015)}]{jones2015african}
+Jones, S. et~al. 2015.
+\newblock Ecology of african carrion.
+\newblock --~In: Benbow, M.~E. et~al. (eds.), Introduction to Carrion Ecology,
+  Evolution, and Their Applications, chap.~6. CRC Press, Boca Raton, Florida,
+  USA, pp. 461--494.
+
 \bibitem[{Kane et~al.(2014)}]{KaneVul}
 Kane, A. et~al. 2014.
 \newblock Vultures acquire information on carcass location from scavenging
@@ -182,6 +217,24 @@ Mart{\'\i}n-Serra, A. et~al. 2016.
   carnivora, canidae): Inferences from forelimb morphology.
 \newblock -- Journal of Mammalian Evolution : 1--13.
 
+\bibitem[{McNab(2009)}]{mcnab2009resources}
+McNab, B.~K. 2009.
+\newblock Resources and energetics determined dinosaur maximal size.
+\newblock -- Proceedings of the National Academy of Sciences 106: 12184--12188.
+
+\bibitem[{Mills(1989)}]{mills1989comparative}
+Mills, M. 1989.
+\newblock The comparative behavioral ecology of hyenas: the importance of diet
+  and food dispersion.
+\newblock --~In: Carnivore behavior, ecology, and evolution. Springer, pp.
+  125--142.
+
+\bibitem[{Mole{\'o}n et~al.(2014)}]{moleon2014humans}
+Mole{\'o}n, M. et~al. 2014.
+\newblock Humans and scavengers: The evolution of interactions and ecosystem
+  services.
+\newblock -- BioScience : biu034.
+
 \bibitem[{Mundy et~al.(1992)}]{mundy1992vultures}
 Mundy, P.~J. et~al. 1992.
 \newblock The vultures of Africa.
@@ -203,11 +256,23 @@ O’Gorman, E.~J. and Hone, D. W.~E. 2012.
 \newblock Body size distribution of the dinosaurs.
 \newblock -- PLoS ONE 7: e51925.
 
+\bibitem[{Owen-Smith and Mills(2008)}]{owen2008predator}
+Owen-Smith, N. and Mills, M.~G. 2008.
+\newblock Predator--prey size relationships in an african large-mammal food
+  web.
+\newblock -- Journal of Animal Ecology 77: 173--183.
+
 \bibitem[{Palmqvist et~al.(2011)}]{palmqvist2011giant}
 Palmqvist, P. et~al. 2011.
 \newblock The giant hyena \textit{Pachycrocuta brevirostris}: modelling the
   bone-cracking behavior of an extinct carnivore.
 \newblock -- Quaternary International 243: 61--79.
+
+\bibitem[{Parmenter and MacMahon(2009)}]{parmenter2009carrion}
+Parmenter, R.~R. and MacMahon, J.~A. 2009.
+\newblock Carrion decomposition and nutrient cycling in a semiarid shrub-steppe
+  ecosystem.
+\newblock -- Ecological Monographs 79: 637--661.
 
 \bibitem[{Pobiner(2008)}]{pobiner2008paleoecological}
 Pobiner, B. 2008.
@@ -235,6 +300,12 @@ Reisz, R.~R. and Tsuji, L.~A. 2006.
 \newblock An articulated skeleton of \textit{Varanops} with bite marks: the
   oldest known evidence of scavenging among terrestrial vertebrates.
 \newblock -- Journal of Vertebrate Paleontology 26: 1021--1023.
+
+\bibitem[{Riskin et~al.(2006)}]{riskin2006terrestrial}
+Riskin, D.~K. et~al. 2006.
+\newblock Terrestrial locomotion of the new zealand short-tailed bat mystacina
+  tuberculata and the common vampire bat desmodus rotundus.
+\newblock -- Journal of Experimental Biology 209: 1725--1736.
 
 \bibitem[{Ruben(1995)}]{ruben1995evolution}
 Ruben, J. 1995.
@@ -288,6 +359,17 @@ Schwimmer, D.~R. et~al. 1997.
 \newblock Scavenging by sharks of the genus squalicorax in the late cretaceous
   of north america.
 \newblock -- Palaios : 71--83.
+
+\bibitem[{Sellwood and Valdes(2006)}]{sellwood2006mesozoic}
+Sellwood, B.~W. and Valdes, P.~J. 2006.
+\newblock Mesozoic climates: General circulation models and the rock record.
+\newblock -- Sedimentary geology 190: 269--287.
+
+\bibitem[{Slagsvold and A~Sonerud(2007)}]{slagsvold2007prey}
+Slagsvold, T. and A~Sonerud, G. 2007.
+\newblock Prey size and ingestion rate in raptors: importance for sex roles and
+  reversed sexual size dimorphism.
+\newblock -- Journal of Avian Biology 38: 650--661.
 
 \bibitem[{Smith and Baco(2003)}]{smith2003ecology}
 Smith, C.~R. and Baco, A.~R. 2003.

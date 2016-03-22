@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.24)  18 MAR 2016 15:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.24)  22 MAR 2016 13:18
 entering extended mode
 **"C:/Users/akane/Desktop/Science/Manuscripts/Ecography Scavenger Review/natura
 l history of scavenging.tex"
@@ -562,34 +562,34 @@ File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 
 {C:/Users/akane/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [1] [2] [3]
  [4] [5]
-[6] [7] [8] [9] [10] [11] [12] [13] ("natural history of scavenging.bbl"
+[6] [7] [8] [9] [10] [11] [12] [13] [14] ("natural history of scavenging.bbl"
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 6.
 
-[14] [15] [16] [17] [18]) [19] ("natural history of scavenging.aux") ) 
+[15] [16] [17] [18] [19] [20]) [21] ("natural history of scavenging.aux") ) 
 Here is how much of TeX's memory you used:
- 3841 strings out of 493673
- 52274 string characters out of 3141529
- 115109 words of memory out of 3000000
- 7098 multiletter control sequences out of 15000+200000
+ 3887 strings out of 493673
+ 53369 string characters out of 3141529
+ 114647 words of memory out of 3000000
+ 7144 multiletter control sequences out of 15000+200000
  60220 words of font info for 48 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 34i,6n,25p,2340b,394s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Progr
-am Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files (x86)/
-MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Program Files (x86)/MiKTeX 2.9/
-fonts/type1/public/lm/lmss10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
-/public/lm/lmss12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/
-lmss8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb
-><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsso10.pfb><C:/Progr
-am Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsso12.pfb><C:/Program Files (
-x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files (x86)/MiKTeX
- 2.9/fonts/type1/public/lm/lmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
-ype1/public/lm/lmtti10.pfb>
-Output written on "natural history of scavenging.pdf" (20 pages, 204869 bytes).
+ 34i,6n,25p,2366b,416s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/
+Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files (
+x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
+type1/public/lm/lmss12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
+c/lm/lmss8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmssbx1
+0.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsso10.pfb><C:/
+Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsso12.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/lm/lmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
+nts/type1/public/lm/lmtti10.pfb>
+Output written on "natural history of scavenging.pdf" (22 pages, 210023 bytes).
 
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
+ 111 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
