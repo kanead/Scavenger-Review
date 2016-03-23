@@ -1,4 +1,4 @@
-\begin{thebibliography}{73}
+\begin{thebibliography}{82}
 \providecommand{\natexlab}[1]{#1}
 
 \bibitem[{Bates and Falkingham(2012)}]{bates2012estimating}
@@ -61,6 +61,11 @@ Chure, D. and Fiorillo, A. 1997.
   wyoming.
 \newblock -- Journal of Vertebrate Paleontology 17: 38A.
 
+\bibitem[{Clarke and P{\"o}rtner(2010)}]{clarke2010temperature}
+Clarke, A. and P{\"o}rtner, H.-O. 2010.
+\newblock Temperature, metabolic power and the evolution of endothermy.
+\newblock -- Biological Reviews 85: 703--727.
+
 \bibitem[{DePalma et~al.(2013)}]{depalma2013physical}
 DePalma, R.~A. et~al. 2013.
 \newblock Physical evidence of predatory behavior in \textit{Tyrannosaurus
@@ -115,11 +120,6 @@ Farlow, J. and Brinkman, D. 1994.
 \newblock In: Dino Fest; Proceedings of a Conference for the General Public.
   Palaeontological Society Special Publications, vol.~7. pp. 165--175.
 
-\bibitem[{Farlow(1994)}]{farlow1994speculations}
-Farlow, J.~O. 1994.
-\newblock Speculations about the carrion-locating ability of tyrannosaurs.
-\newblock -- Historical Biology 7: 159--165.
-
 \bibitem[{Ferguson-Lees and Christie(2001)}]{ferguson2001raptors}
 Ferguson-Lees, J. and Christie, D.~A. 2001.
 \newblock Raptors of the world.
@@ -147,6 +147,12 @@ Grady, J.~M. et~al. 2014.
 \newblock Evidence for mesothermy in dinosaurs.
 \newblock -- Science 344: 1268--1272.
 
+\bibitem[{Gr{\'e}millet et~al.(2012)}]{gremillet2012vultures}
+Gr{\'e}millet, D. et~al. 2012.
+\newblock Vultures of the seas: hyperacidic stomachs in wandering albatrosses
+  as an adaptation to dispersed food resources, including fishery wastes.
+\newblock -- PloS one 7: e37834.
+
 \bibitem[{Hedenstrom(1993)}]{hedenstrom1993migration}
 Hedenstrom, A. 1993.
 \newblock Migration by soaring or flapping flight in birds: the relative
@@ -159,10 +165,22 @@ Hone, D.~W. and Rauhut, O.~W. 2010.
 \newblock Feeding behaviour and bone utilization by theropod dinosaurs.
 \newblock -- Lethaia 43: 232--244.
 
+\bibitem[{Houston(1974)}]{houston1974role}
+Houston, D. 1974.
+\newblock The role of griffon vultures gyps africanus and gyps ruppellii as
+  scavengers.
+\newblock -- Journal of Zoology 172: 35--46.
+
 \bibitem[{Houston(1986)}]{houston1986olfaction}
 Houston, D.~C. 1986.
 \newblock Scavenging efficiency of turkey vultures in tropical forest.
 \newblock -- The Condor 88: 318--323.
+
+\bibitem[{Houston and Cooper(1975)}]{houston1975digestive}
+Houston, D.~C. and Cooper, J. 1975.
+\newblock The digestive tract of the whiteback griffon vulture and its role in
+  disease transmission among wild ungulates.
+\newblock -- Journal of Wildlife Diseases 11: 306--313.
 
 \bibitem[{Jackson et~al.(2008)}]{jackson2008effect}
 Jackson, A.~L. et~al. 2008.
@@ -195,6 +213,12 @@ Kane, A. et~al. 2014.
 \newblock -- Proceedings of the Royal Society of London B: Biological Sciences
   281.
 
+\bibitem[{Kendall(2013)}]{kendall2013alternative}
+Kendall, C.~J. 2013.
+\newblock Alternative strategies in avian scavengers: how subordinate species
+  foil the despotic distribution.
+\newblock -- Behavioral Ecology and Sociobiology 67: 383--393.
+
 \bibitem[{Koenig(2006)}]{manga2006vulture}
 Koenig, R. 2006.
 \newblock Vulture research soars as the scavengers' numbers decline.
@@ -211,6 +235,11 @@ Mart{\'\i}n-Serra, A. et~al. 2016.
 \newblock In the pursuit of the predatory behavior of borophagines (mammalia,
   carnivora, canidae): Inferences from forelimb morphology.
 \newblock -- Journal of Mammalian Evolution : 1--13.
+
+\bibitem[{Martyniuk(2012)}]{martyniuk2012field}
+Martyniuk, M.~P. 2012.
+\newblock A Field Guide to Mesozoic Birds and Other Winged Dinosaurs.
+\newblock -- Pan Aves.
 
 \bibitem[{McNab(2009)}]{mcnab2009resources}
 McNab, B.~K. 2009.
@@ -244,12 +273,6 @@ Nagy, K.~A. 2005.
 Niedzwiedzki, G. et~al. 2010.
 \newblock Tetrapod trackways from the early middle devonian period of poland.
 \newblock -- Nature 463: 43--48.
-
-\bibitem[{Ogada et~al.(2012)}]{ogada2012effects}
-Ogada, D. et~al. 2012.
-\newblock Effects of vulture declines on facultative scavengers and potential
-  implications for mammalian disease transmission.
-\newblock -- Conservation biology 26: 453--460.
 
 \bibitem[{O’Gorman and Hone(2012)}]{10.1371/journal.pone.0051925}
 O’Gorman, E.~J. and Hone, D. W.~E. 2012.
@@ -301,11 +324,22 @@ Reisz, R.~R. and Tsuji, L.~A. 2006.
   oldest known evidence of scavenging among terrestrial vertebrates.
 \newblock -- Journal of Vertebrate Paleontology 26: 1021--1023.
 
+\bibitem[{Reymond(1985)}]{reymond1985spatial}
+Reymond, L. 1985.
+\newblock Spatial visual acuity of the eagle aquila audax: a behavioural,
+  optical and anatomical investigation.
+\newblock -- Vision research 25: 1477--1491.
+
 \bibitem[{Riskin et~al.(2006)}]{riskin2006terrestrial}
 Riskin, D.~K. et~al. 2006.
 \newblock Terrestrial locomotion of the new zealand short-tailed bat mystacina
   tuberculata and the common vampire bat desmodus rotundus.
 \newblock -- Journal of Experimental Biology 209: 1725--1736.
+
+\bibitem[{Roggenbuck et~al.(2014)}]{roggenbuck2014microbiome}
+Roggenbuck, M. et~al. 2014.
+\newblock The microbiome of new world vultures.
+\newblock -- Nature communications 5.
 
 \bibitem[{Ruben(1995)}]{ruben1995evolution}
 Ruben, J. 1995.
@@ -382,10 +416,23 @@ Spiegel, O. et~al. 2013.
   lappet-faced vultures outperform ubiquitous white-backed vultures?
 \newblock -- The American Naturalist 181: E102--E115.
 
+\bibitem[{Spivey et~al.(2014)}]{spivey2014analysing}
+Spivey, R. et~al. 2014.
+\newblock Analysing the intermittent flapping flight of a manx shearwater,
+  puffinus puffinus, and its sporadic use of a wave-meandering wing-sailing
+  flight strategy.
+\newblock -- Progress in Oceanography 125: 62--73.
+
 \bibitem[{Tenney(1877)}]{tenney1877few}
 Tenney, S. 1877.
 \newblock A few words about scavengers.
 \newblock -- The American Naturalist 11: 129--135.
+
+\bibitem[{Thaxter et~al.(2012)}]{thaxter2012seabird}
+Thaxter, C.~B. et~al. 2012.
+\newblock Seabird foraging ranges as a preliminary tool for identifying
+  candidate marine protected areas.
+\newblock -- Biological Conservation 156: 53--61.
 
 \bibitem[{Tucker(1975)}]{tucker1975energetic}
 Tucker, V.~A. 1975.
@@ -409,6 +456,13 @@ Weishampel, D.~B. et~al. 2004.
 Whitehead, H. and Reeves, R. 2005.
 \newblock Killer whales and whaling: the scavenging hypothesis.
 \newblock -- Biology Letters 1: 415--418.
+
+\bibitem[{Williams(1999)}]{williams1999evolution}
+Williams, T.~M. 1999.
+\newblock The evolution of cost efficient swimming in marine mammals: limits to
+  energetic optimization.
+\newblock -- Philosophical Transactions of the Royal Society of London B:
+  Biological Sciences 354: 193--201.
 
 \bibitem[{Witton and Habib(2010)}]{witton2010size}
 Witton, M.~P. and Habib, M.~B. 2010.
