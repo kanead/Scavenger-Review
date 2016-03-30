@@ -1,5 +1,11 @@
-\begin{thebibliography}{82}
+\begin{thebibliography}{90}
 \providecommand{\natexlab}[1]{#1}
+
+\bibitem[{Anyonge(1996)}]{anyonge1996locomotor}
+Anyonge, W. 1996.
+\newblock Locomotor behaviour in plio-pleistocene sabre-tooth cats: a
+  biomechanical analysis.
+\newblock -- Journal of Zoology 238: 395--413.
 
 \bibitem[{Bates and Falkingham(2012)}]{bates2012estimating}
 Bates, K. and Falkingham, P. 2012.
@@ -42,6 +48,11 @@ Carbone, C. et~al. 2011.
   terrestrial predators, \textit{Tyrannosaurus rex}.
 \newblock -- Proceedings of the Royal Society B: Biological Sciences 278:
   2682--2690.
+
+\bibitem[{Carey et~al.(1982)}]{carey1982temperature}
+Carey, F.~G. et~al. 1982.
+\newblock Temperature and activities of a white shark, carcharodon carcharias.
+\newblock -- Copeia : 254--260.
 
 \bibitem[{Carrier(1987)}]{carrier1987evolution}
 Carrier, D.~R. 1987.
@@ -114,11 +125,22 @@ Fahlke, J.~M. 2012.
   basilosaurus isis predation on dorudon atrox (both cetacea, basilosauridae).
 \newblock -- Palaeontologia Electronica 15: 32A.
 
+\bibitem[{Fallows et~al.(2013)}]{fallows2013white}
+Fallows, C. et~al. 2013.
+\newblock White sharks (carcharodon carcharias) scavenging on whales and its
+  potential role in further shaping the ecology of an apex predator.
+\newblock -- PloS one 8: e60797.
+
 \bibitem[{Farlow and Brinkman(1994)}]{farlow1994wear}
 Farlow, J. and Brinkman, D. 1994.
 \newblock Wear surfaces on the teeth of tyrannosaurs.
 \newblock In: Dino Fest; Proceedings of a Conference for the General Public.
   Palaeontological Society Special Publications, vol.~7. pp. 165--175.
+
+\bibitem[{Farlow(1994)}]{farlow1994speculations}
+Farlow, J.~O. 1994.
+\newblock Speculations about the carrion-locating ability of tyrannosaurs.
+\newblock -- Historical Biology 7: 159--165.
 
 \bibitem[{Ferguson-Lees and Christie(2001)}]{ferguson2001raptors}
 Ferguson-Lees, J. and Christie, D.~A. 2001.
@@ -188,6 +210,12 @@ Jackson, A.~L. et~al. 2008.
   modelling study.
 \newblock -- Biology Letters 4: 311--313.
 
+\bibitem[{Janis and Figueirido(2014)}]{janis2014forelimb}
+Janis, C.~M. and Figueirido, B. 2014.
+\newblock Forelimb anatomy and the discrimination of the predatory behavior of
+  carnivorous mammals: The thylacine as a case study.
+\newblock -- Journal of morphology 275: 1321--1338.
+
 \bibitem[{Jarvis et~al.(2014)}]{Jarvis2014}
 Jarvis, E.~D. et~al. 2014.
 \newblock Whole-genome analyses resolve early branches in the tree of life of
@@ -246,6 +274,11 @@ McNab, B.~K. 2009.
 \newblock Resources and energetics determined dinosaur maximal size.
 \newblock -- Proceedings of the National Academy of Sciences 106: 12184--12188.
 
+\bibitem[{Mech and Boitani(2010)}]{mech2010wolves}
+Mech, L.~D. and Boitani, L. 2010.
+\newblock Wolves: behavior, ecology, and conservation.
+\newblock -- University of Chicago Press.
+
 \bibitem[{Mills(1989)}]{mills1989comparative}
 Mills, M. 1989.
 \newblock The comparative behavioral ecology of hyenas: the importance of diet
@@ -296,6 +329,13 @@ Parmenter, R.~R. and MacMahon, J.~A. 2009.
 \newblock Carrion decomposition and nutrient cycling in a semiarid shrub-steppe
   ecosystem.
 \newblock -- Ecological Monographs 79: 637--661.
+
+\bibitem[{Pennycuick(1995)}]{pennycuick1995radius}
+Pennycuick, C. 1995.
+\newblock Energy costs of locomotion and the concept of "foraging radius".
+\newblock --~In: Sinclair, A. R.~E. and Norton-Griffiths, M. (eds.), Serengeti:
+  dynamics of an ecosystem, chap.~7. University of Chicago Press, USA, pp.
+  164--18.
 
 \bibitem[{Pobiner(2008)}]{pobiner2008paleoecological}
 Pobiner, B. 2008.
@@ -441,6 +481,12 @@ Tucker, V.~A. 1975.
   inefficient forms of locomotion. much greater efficiency is achieved by
   birds, fish and bicyclists.
 \newblock -- American Scientist 63: 413--419.
+
+\bibitem[{Van~Valkenburgh(1987)}]{van1987skeletal}
+Van~Valkenburgh, B. 1987.
+\newblock Skeletal indicators of locomotor behavior in living and extinct
+  carnivores.
+\newblock -- Journal of Vertebrate Paleontology 7: 162--182.
 
 \bibitem[{Van~Valkenburgh et~al.(2003)}]{van2003chapter}
 Van~Valkenburgh, B. et~al. 2003.
