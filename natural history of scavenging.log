@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.24)  31 MAR 2016 11:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.24)  1 APR 2016 17:50
 entering extended mode
 **"C:/Users/akane/Desktop/Science/Manuscripts/Ecography Scavenger Review/natura
 l history of scavenging.tex"
@@ -790,26 +790,26 @@ Package: xfrac 2015/12/20 v6326 L3 Experimental split-level fractions
 . Defining command \sfrac with sig. 'omom' on line 451.
 .................................................
 ) ("natural history of scavenging.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 26.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 25.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 26.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -828,105 +828,90 @@ File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 \makeMPintoPDFobject=\count144
 \everyMPtoPDFconversion=\toks25
 )
-Package ragged2e Info: ABD: executing \RaggedRight on input line 25.
+Package ragged2e Info: ABD: executing \RaggedRight on input line 26.
  ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 25.
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 27.
+LaTeX Info: Redefining \selectfont on input line 26.
+ [1
+
+{C:/Users/akane/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+<Summary_figure/Summary_figure_Landscape.pdf, id=12, 504.79776pt x 295.64726pt>
+File: Summary_figure/Summary_figure_Landscape.pdf Graphic file (type pdf)
+<use Summary_figure/Summary_figure_Landscape.pdf>
+Package pdftex.def Info: Summary_figure/Summary_figure_Landscape.pdf used on in
+put line 77.
+(pdftex.def)             Requested size: 460.72124pt x 269.8379pt.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 95.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 27.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 95.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 27.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 95.
 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 27.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 95.
 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 27.
+(Font)              <12> on input line 95.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 27.
+(Font)              <8> on input line 95.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 27.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 27.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 27.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 27.
+(Font)              <6> on input line 95.
+LaTeX Font Info:    Calculating math sizes for size <8.39996> on input line 96.
 
-Overfull \hbox (36.22934pt too wide) in paragraph at lines 27--27
- [][] 
- []
-
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8.39996> on input line 96.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5.87994> on input line 96.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <4.19998> on input line 96.
+ [3 <./Summary_figure/Summary_figure_Landscape.pdf>]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 27.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 27.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd"
-File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [1
-
-{C:/Users/akane/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [1] [2]
-<Summary_figure/Summary_figure_Landscape.pdf, id=18, 504.79776pt x 295.64726pt>
-File: Summary_figure/Summary_figure_Landscape.pdf Graphic file (type pdf)
-<use Summary_figure/Summary_figure_Landscape.pdf>
-Package pdftex.def Info: Summary_figure/Summary_figure_Landscape.pdf used on in
-put line 75.
-(pdftex.def)             Requested size: 460.72124pt x 269.8379pt.
-LaTeX Font Info:    Calculating math sizes for size <8.39996> on input line 93.
-
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8.39996> on input line 93.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5.87994> on input line 93.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <4.19998> on input line 93.
- [3 <./Summary_figure/Summary_figure_Landscape.pdf>] [4] [5] [6] [7] [8] [9] [1
-0] [11] [12] [13] [14]
-[15] [16] [17] ("natural history of scavenging.bbl"
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 100.
+ [4] [5] [6] [7] [8] [9] [10] [11] [12]
+[13] [14] [15] [16] [17] ("natural history of scavenging.bbl"
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 12.
- [18] [19] [20] [21]
-[22] [23] [24] [25]) [26] ("natural history of scavenging.aux") ) 
+ [18] [19]
+[20] [21] [22] [23] [24] [25]) [26] ("natural history of scavenging.aux") ) 
 Here is how much of TeX's memory you used:
- 11654 strings out of 493673
- 211661 string characters out of 3141529
- 240088 words of memory out of 3000000
- 14865 multiletter control sequences out of 15000+200000
- 114657 words of font info for 83 fonts, out of 3000000 for 9000
+ 11609 strings out of 493673
+ 211224 string characters out of 3141529
+ 239701 words of memory out of 3000000
+ 14829 multiletter control sequences out of 15000+200000
+ 100756 words of font info for 72 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  34i,12n,42p,10452b,460s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Fi
-les (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files (x86)/MiKTe
-X 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files (x86)/MiKTeX 2.9/fonts
-/enc/dvips/lm/lm-rm.enc}{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/l
-m-mathit.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmmi12.pf
-b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmr6.pfb><C:/Program
- Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Program Files (x86)/
-MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files (x86)/MiKTeX 2.9/
-fonts/type1/public/lm/lmss12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
-/public/lm/lmss8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/l
-mssbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsso10.pf
-b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsso12.pfb><C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files (
-x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy6.pfb><C:/Program Files (x86)/MiKTeX 
-2.9/fonts/type1/public/lm/lmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
-pe1/public/lm/lmtti10.pfb>
-Output written on "natural history of scavenging.pdf" (27 pages, 375422 bytes).
+{C:/
+Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files (
+x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/
+dvips/lm/lm-mathit.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm
+/lmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmr6.pfb><
+C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
+onts/type1/public/lm/lmss8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/p
+ublic/lm/lmssbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/
+lmsso10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsso12.pf
+b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Progr
+am Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy6.pfb><C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pfb>
+Output written on "natural history of scavenging.pdf" (26 pages, 357994 bytes).
 
 PDF statistics:
- 198 PDF objects out of 1000 (max. 8388607)
+ 191 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

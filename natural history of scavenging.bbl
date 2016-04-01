@@ -1,4 +1,4 @@
-\begin{thebibliography}{90}
+\begin{thebibliography}{95}
 \providecommand{\natexlab}[1]{#1}
 
 \bibitem[{Anyonge(1996)}]{anyonge1996locomotor}
@@ -76,6 +76,11 @@ Chure, D. and Fiorillo, A. 1997.
 Clarke, A. and P{\"o}rtner, H.-O. 2010.
 \newblock Temperature, metabolic power and the evolution of endothermy.
 \newblock -- Biological Reviews 85: 703--727.
+
+\bibitem[{Croxall and Prince(1994)}]{croxall1994dead}
+Croxall, J.~P. and Prince, P.~A. 1994.
+\newblock Dead or alive, night or day: how do albatrosses catch squid?
+\newblock -- Antarctic Science 6: 155--162.
 
 \bibitem[{DePalma et~al.(2013)}]{depalma2013physical}
 DePalma, R.~A. et~al. 2013.
@@ -174,6 +179,14 @@ Gr{\'e}millet, D. et~al. 2012.
 \newblock Vultures of the seas: hyperacidic stomachs in wandering albatrosses
   as an adaptation to dispersed food resources, including fishery wastes.
 \newblock -- PloS one 7: e37834.
+
+\bibitem[{Hand et~al.(2012)}]{Hand_Necromantis_2012}
+Hand, S. et~al. 2012.
+\newblock Necromantis weithofer, 1887, large carnivorous middle and late eocene
+  bats from the french quercy phosphorites: new data and unresolved
+  relationships.
+\newblock --~In: Gunnell, G.~F. and Simmons, N.~B. (eds.), Evolutionary History
+  of Bats. Cambridge University Press, pp. 210--251.
 
 \bibitem[{Hedenstrom(1993)}]{hedenstrom1993migration}
 Hedenstrom, A. 1993.
@@ -291,6 +304,12 @@ Mole{\'o}n, M. et~al. 2014.
 \newblock Humans and scavengers: The evolution of interactions and ecosystem
   services.
 \newblock -- BioScience : biu034.
+
+\bibitem[{Monadjem et~al.(2012)}]{monadjem2012survival}
+Monadjem, A. et~al. 2012.
+\newblock Survival and population dynamics of the marabou stork in an isolated
+  population, swaziland.
+\newblock -- PLOS ONE 7: e46434.
 
 \bibitem[{Mundy et~al.(1992)}]{mundy1992vultures}
 Mundy, P.~J. et~al. 1992.
@@ -494,10 +513,22 @@ Van~Valkenburgh, B. et~al. 2003.
   craniodental morphology and body size.
 \newblock -- Bulletin of the American Museum of Natural History : 147--162.
 
+\bibitem[{Weimerskirch(1992)}]{weimerskirch1992reproductive}
+Weimerskirch, H. 1992.
+\newblock Reproductive effort in long-lived birds: age-specific patterns of
+  condition, reproduction and survival in the wandering albatross.
+\newblock -- Oikos : 464--473.
+
 \bibitem[{Weishampel et~al.(2004)}]{weishampel2004dinosauria}
 Weishampel, D.~B. et~al. 2004.
 \newblock The dinosauria.
 \newblock -- University of California Press.
+
+\bibitem[{Weithofer(1887)}]{Weithofer_Necromantis_1887}
+Weithofer, A. 1887.
+\newblock Zur kenntniss der fossilen cheiropteren der franz\"{o}sischen
+  phosphorite.
+\newblock -- Mathematisch-naturwissenschaftlich 96: 341--–360.
 
 \bibitem[{Whitehead and Reeves(2005)}]{Whitehead415}
 Whitehead, H. and Reeves, R. 2005.
