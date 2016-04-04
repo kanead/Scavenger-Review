@@ -1,5 +1,10 @@
-\begin{thebibliography}{95}
+\begin{thebibliography}{99}
 \providecommand{\natexlab}[1]{#1}
+
+\bibitem[{Aguirre et~al.(2003)}]{aguirre2003implications}
+Aguirre, L. et~al. 2003.
+\newblock The implications of food hardness for diet in bats.
+\newblock -- Functional Ecology 17: 201--212.
 
 \bibitem[{Anyonge(1996)}]{anyonge1996locomotor}
 Anyonge, W. 1996.
@@ -24,6 +29,11 @@ Beasley, J. et~al. 2015.
 \newblock --~In: Benbow, M.~E. et~al. (eds.), Introduction to Carrion Ecology,
   Evolution, and Their Applications, chap.~6. CRC Press, Boca Raton, Florida,
   USA, pp. 107--128.
+
+\bibitem[{Bennett and Ruben(1979)}]{bennett1979endothermy}
+Bennett, A.~F. and Ruben, J.~A. 1979.
+\newblock Endothermy and activity in vertebrates.
+\newblock -- Science 206: 649--654.
 
 \bibitem[{Blasco et~al.(2014)}]{ARCM:ARCM12084}
 Blasco, R. et~al. 2014.
@@ -99,6 +109,11 @@ DeVault, T.~L. et~al. 2003.
   perspectives on an important energy transfer pathway in terrestrial
   ecosystems.
 \newblock -- Oikos 102: 225--234.
+
+\bibitem[{Dom{\'\i}nguez-Rodrigo(2002)}]{dominguez2002hunting}
+Dom{\'\i}nguez-Rodrigo, M. 2002.
+\newblock Hunting and scavenging by early humans: the state of the debate.
+\newblock -- Journal of World Prehistory 16: 1--54.
 
 \bibitem[{Don{\'a}zar et~al.(2002)}]{donazar2002effects}
 Don{\'a}zar, J.~A. et~al. 2002.
@@ -234,6 +249,12 @@ Jarvis, E.~D. et~al. 2014.
 \newblock Whole-genome analyses resolve early branches in the tree of life of
   modern birds.
 \newblock -- Science 346: 1320--1331.
+
+\bibitem[{Jeschke et~al.(2002)}]{jeschke2002predator}
+Jeschke, J.~M. et~al. 2002.
+\newblock Predator functional responses: discriminating between handling and
+  digesting prey.
+\newblock -- Ecological Monographs 72: 95--112.
 
 \bibitem[{Jetz et~al.(2012)}]{Jetz2012}
 Jetz, W. et~al. 2012.
