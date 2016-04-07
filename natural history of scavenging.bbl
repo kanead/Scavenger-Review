@@ -1,10 +1,21 @@
-\begin{thebibliography}{99}
+\begin{thebibliography}{104}
 \providecommand{\natexlab}[1]{#1}
 
 \bibitem[{Aguirre et~al.(2003)}]{aguirre2003implications}
 Aguirre, L. et~al. 2003.
 \newblock The implications of food hardness for diet in bats.
 \newblock -- Functional Ecology 17: 201--212.
+
+\bibitem[{Alexander(2004)}]{alexander2004bipedal}
+Alexander, R. 2004.
+\newblock Bipedal animals, and their differences from humans.
+\newblock -- Journal of anatomy 204: 321--330.
+
+\bibitem[{Anderson and Bell(2016)}]{anderson2016impact}
+Anderson, G.~S. and Bell, L.~S. 2016.
+\newblock Impact of marine submergence and season on faunal colonization and
+  decomposition of pig carcasses in the salish sea.
+\newblock -- PloS one 11: e0149107.
 
 \bibitem[{Anyonge(1996)}]{anyonge1996locomotor}
 Anyonge, W. 1996.
@@ -126,11 +137,6 @@ Ehret, D.~J. et~al. 2009.
 \newblock Caught in the act: trophic interactions between a 4-million-year-old
   white shark (carcharodon) and mysticete whale from peru.
 \newblock -- Palaios 24: 329--333.
-
-\bibitem[{Eiting and Gunnell(2009)}]{eiting2009global}
-Eiting, T.~P. and Gunnell, G.~F. 2009.
-\newblock Global completeness of the bat fossil record.
-\newblock -- Journal of Mammalian Evolution 16: 151--173.
 
 \bibitem[{Enstipp et~al.(2006)}]{Enstipp2006Energetics}
 Enstipp, M. et~al. 2006.
@@ -347,16 +353,28 @@ Niedzwiedzki, G. et~al. 2010.
 \newblock Tetrapod trackways from the early middle devonian period of poland.
 \newblock -- Nature 463: 43--48.
 
-\bibitem[{Owen-Smith and Mills(2008)}]{owen2008predator}
-Owen-Smith, N. and Mills, M.~G. 2008.
-\newblock Predator--prey size relationships in an african large-mammal food
-  web.
-\newblock -- Journal of Animal Ecology 77: 173--183.
+\bibitem[{Norberg(2012)}]{norberg2012vertebrate}
+Norberg, U.~M. 2012.
+\newblock Vertebrate flight: mechanics, physiology, morphology, ecology and
+  evolution, vol.~27.
+\newblock -- Springer Science \& Business Media.
+
+\bibitem[{Nudds and Dyke(2010)}]{nudds2010narrow}
+Nudds, R.~L. and Dyke, G.~J. 2010.
+\newblock Narrow primary feather rachises in confuciusornis and archaeopteryx
+  suggest poor flight ability.
+\newblock -- Science 328: 887--889.
 
 \bibitem[{O’Gorman and Hone(2012)}]{10.1371/journal.pone.0051925}
 O’Gorman, E.~J. and Hone, D. W.~E. 2012.
 \newblock Body size distribution of the dinosaurs.
 \newblock -- PLoS ONE 7: e51925.
+
+\bibitem[{Owen-Smith and Mills(2008)}]{owen2008predator}
+Owen-Smith, N. and Mills, M.~G. 2008.
+\newblock Predator--prey size relationships in an african large-mammal food
+  web.
+\newblock -- Journal of Animal Ecology 77: 173--183.
 
 \bibitem[{Palmqvist et~al.(2011)}]{palmqvist2011giant}
 Palmqvist, P. et~al. 2011.
@@ -369,6 +387,12 @@ Parmenter, R.~R. and MacMahon, J.~A. 2009.
 \newblock Carrion decomposition and nutrient cycling in a semiarid shrub-steppe
   ecosystem.
 \newblock -- Ecological Monographs 79: 637--661.
+
+\bibitem[{Pawar et~al.(2012)}]{pawar2012dimensionality}
+Pawar, S. et~al. 2012.
+\newblock Dimensionality of consumer search space drives trophic interaction
+  strengths.
+\newblock -- Nature 486: 485--489.
 
 \bibitem[{Pennycuick(1995)}]{pennycuick1995radius}
 Pennycuick, C. 1995.
@@ -420,12 +444,6 @@ Riskin, D.~K. et~al. 2006.
 Roggenbuck, M. et~al. 2014.
 \newblock The microbiome of new world vultures.
 \newblock -- Nature communications 5.
-
-\bibitem[{Ruben(1995)}]{ruben1995evolution}
-Ruben, J. 1995.
-\newblock The evolution of endothermy in mammals and birds: from physiology to
-  fossils.
-\newblock -- Annual Review of Physiology 57: 69--95.
 
 \bibitem[{Ruxton and Bailey(2005)}]{ruxton2005searching}
 Ruxton, G.~D. and Bailey, D.~M. 2005.
@@ -504,6 +522,12 @@ Spivey, R. et~al. 2014.
   flight strategy.
 \newblock -- Progress in Oceanography 125: 62--73.
 
+\bibitem[{Sullivan(2015)}]{sullivan2015posture}
+Sullivan, C. 2015.
+\newblock Evolution of hind limb posture in triassic archosauriforms.
+\newblock --~In: Dial, K. et~al. (eds.), Great Transformations in Vertebrate
+  Evolution, chap.~7. University of Chicago Press, USA, pp. 107--124.
+
 \bibitem[{Tenney(1877)}]{tenney1877few}
 Tenney, S. 1877.
 \newblock A few words about scavengers.
@@ -533,6 +557,12 @@ Van~Valkenburgh, B. et~al. 2003.
 \newblock Chapter 7: Pack hunting in miocene borophagine dogs: Evidence from
   craniodental morphology and body size.
 \newblock -- Bulletin of the American Museum of Natural History : 147--162.
+
+\bibitem[{Watanabe et~al.(2012)}]{watanabe2012slowest}
+Watanabe, Y.~Y. et~al. 2012.
+\newblock The slowest fish: swim speed and tail-beat frequency of greenland
+  sharks.
+\newblock -- Journal of Experimental Marine Biology and Ecology 426: 5--11.
 
 \bibitem[{Weimerskirch(1992)}]{weimerskirch1992reproductive}
 Weimerskirch, H. 1992.
