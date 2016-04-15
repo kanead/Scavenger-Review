@@ -1,4 +1,4 @@
-\begin{thebibliography}{107}
+\begin{thebibliography}{108}
 \providecommand{\natexlab}[1]{#1}
 
 \bibitem[{Aguirre et~al.(2003)}]{aguirre2003implications}
@@ -45,12 +45,6 @@ Beasley, J. et~al. 2015.
 Bennett, A.~F. and Ruben, J.~A. 1979.
 \newblock Endothermy and activity in vertebrates.
 \newblock -- Science 206: 649--654.
-
-\bibitem[{Bernal et~al.(2012)}]{bernal2015sharks}
-Bernal, D. et~al. 2012.
-\newblock Energetics, metabolism and endothermy in sharks and rays.
-\newblock --~In: Carrier, J. et~al. (eds.), Biology of Sharks and their
-  Relatives, chap.~7. CRC Press, Boca Raton, Florida, USA, pp. 211--238.
 
 \bibitem[{Blasco et~al.(2014)}]{ARCM:ARCM12084}
 Blasco, R. et~al. 2014.
@@ -109,6 +103,13 @@ Chure, D. and Fiorillo, A. 1997.
 Clarke, A. and P{\"o}rtner, H.-O. 2010.
 \newblock Temperature, metabolic power and the evolution of endothermy.
 \newblock -- Biological Reviews 85: 703--727.
+
+\bibitem[{Collins et~al.(2005)}]{collins2005trends}
+Collins, M. et~al. 2005.
+\newblock Trends in body size across an environmental gradient: a differential
+  response in scavenging and non-scavenging demersal deep-sea fish.
+\newblock -- Proceedings of the Royal Society of London B: Biological Sciences
+  272: 2051--2057.
 
 \bibitem[{Croxall and Prince(1994)}]{croxall1994dead}
 Croxall, J.~P. and Prince, P.~A. 1994.
@@ -457,6 +458,11 @@ Roggenbuck, M. et~al. 2014.
 \newblock The microbiome of new world vultures.
 \newblock -- Nature communications 5.
 
+\bibitem[{Ruxton(2011)}]{ruxton2011zoology}
+Ruxton, G.~D. 2011.
+\newblock Zoology: Why are whales big?
+\newblock -- Nature 469: 481--481.
+
 \bibitem[{Ruxton and Bailey(2005)}]{ruxton2005searching}
 Ruxton, G.~D. and Bailey, D.~M. 2005.
 \newblock Searching speeds and the energetic feasibility of an obligate
@@ -515,8 +521,8 @@ Shivik, J.~A. 2006.
   microscavenger conflict?
 \newblock -- BioScience 56: 819--823.
 
-\bibitem[{Slagsvold and A~Sonerud(2007)}]{slagsvold2007prey}
-Slagsvold, T. and A~Sonerud, G. 2007.
+\bibitem[{Slagsvold and Sonerud(2007)}]{slagsvold2007prey}
+Slagsvold, T. and Sonerud, G. 2007.
 \newblock Prey size and ingestion rate in raptors: importance for sex roles and
   reversed sexual size dimorphism.
 \newblock -- Journal of Avian Biology 38: 650--661.
