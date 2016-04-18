@@ -1,4 +1,4 @@
-\begin{thebibliography}{108}
+\begin{thebibliography}{111}
 \providecommand{\natexlab}[1]{#1}
 
 \bibitem[{Aguirre et~al.(2003)}]{aguirre2003implications}
@@ -86,6 +86,11 @@ Carrier, D.~R. 1987.
 \newblock The evolution of locomotor stamina in tetrapods: circumventing a
   mechanical constraint.
 \newblock -- Paleobiology : 326--341.
+
+\bibitem[{Chiappe and Dyke(2006)}]{chiappe2006early}
+Chiappe, L.~M. and Dyke, G.~J. 2006.
+\newblock The early evolutionary history of birds.
+\newblock -- Journal of the Palaeontological Society OF Korea 22: 133--151.
 
 \bibitem[{Chin et~al.(1998)}]{chin1998king}
 Chin, K. et~al. 1998.
@@ -293,6 +298,11 @@ Kane, A. et~al. 2014.
   eagles.
 \newblock -- Proceedings of the Royal Society of London B: Biological Sciences
   281.
+
+\bibitem[{Kane et~al.(2016)}]{kane2016body}
+Kane, A. et~al. 2016.
+\newblock Body size as a driver of scavenging in theropod dinosaurs.
+\newblock -- The American Naturalist 187.
 
 \bibitem[{Kendall(2013)}]{kendall2013alternative}
 Kendall, C.~J. 2013.
@@ -615,6 +625,11 @@ Williams, T.~M. 1999.
   energetic optimization.
 \newblock -- Philosophical Transactions of the Royal Society of London B:
   Biological Sciences 354: 193--201.
+
+\bibitem[{Witton(2013)}]{witton2013pterosaurs}
+Witton, M.~P. 2013.
+\newblock Pterosaurs: natural history, evolution, anatomy.
+\newblock -- Princeton University Press, USA.
 
 \bibitem[{Witton and Habib(2010)}]{witton2010size}
 Witton, M.~P. and Habib, M.~B. 2010.
