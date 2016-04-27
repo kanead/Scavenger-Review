@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.24)  18 APR 2016 14:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.24)  26 APR 2016 16:26
 entering extended mode
 **"C:/Users/akane/Desktop/Science/Manuscripts/Ecography Scavenger Review/natura
 l history of scavenging.tex"
@@ -878,45 +878,48 @@ File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [1
 
 {C:/Users/akane/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [1] [2]
-<Summary_figure/Summary_figure_Landscape.pdf, id=18, 521.95pt x 313.17pt>
-File: Summary_figure/Summary_figure_Landscape.pdf Graphic file (type pdf)
+<Summary_figure/Summary_figure.pdf, id=18, 597.50786pt x 845.04686pt>
+File: Summary_figure/Summary_figure.pdf Graphic file (type pdf)
 
-<use Summary_figure/Summary_figure_Landscape.pdf>
-Package pdftex.def Info: Summary_figure/Summary_figure_Landscape.pdf used on in
-put line 82.
-(pdftex.def)             Requested size: 460.72124pt x 276.43625pt.
- [3] [4 <./Summary_figure/Summary_figure_Landscape.pdf>] [5] [6] [7] [8] [9] [1
-0] [11] [12] [13] [14]
-[15] [16] [17] [18]
-<timeline_figure/timeLine.pdf, id=123, 847.41728pt x 619.0698pt>
+<use Summary_figure/Summary_figure.pdf>
+Package pdftex.def Info: Summary_figure/Summary_figure.pdf used on input line 7
+8.
+(pdftex.def)             Requested size: 460.72124pt x 651.5907pt.
+
+
+LaTeX Warning: Float too large for page by 69.5907pt on input line 82.
+
+[3] [4 <./Summary_figure/Summary_figure.pdf>] [5] [6] [7] [8] [9] [10] [11]
+[12] [13] [14] [15] [16] [17] [18] [19]
+<timeline_figure/timeLine.pdf, id=143, 847.41728pt x 619.0698pt>
 File: timeline_figure/timeLine.pdf Graphic file (type pdf)
 
 <use timeline_figure/timeLine.pdf>
-Package pdftex.def Info: timeline_figure/timeLine.pdf used on input line 434.
+Package pdftex.def Info: timeline_figure/timeLine.pdf used on input line 478.
 (pdftex.def)             Requested size: 460.72124pt x 336.56924pt.
- [19] [20 <./timeline_figure/timeLine.pdf>]
-LaTeX Font Info:    Calculating math sizes for size <8.39996> on input line 451
+ [20 <./timeline_figure/timeLine.pdf>]
+LaTeX Font Info:    Calculating math sizes for size <8.39996> on input line 497
 .
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8.39996> on input line 451.
+(Font)              <8.39996> on input line 497.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5.87994> on input line 451.
+(Font)              <5.87994> on input line 497.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <4.19998> on input line 451.
+(Font)              <4.19998> on input line 497.
 
 [21] ("natural history of scavenging.bbl"
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 28.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 33.
  [22] [23] [24] [25] [26] [27]
 [28] [29] [30] [31]) [32] ("natural history of scavenging.aux") ) 
 Here is how much of TeX's memory you used:
- 11732 strings out of 493673
- 213638 string characters out of 3141529
- 240930 words of memory out of 3000000
- 14941 multiletter control sequences out of 15000+200000
+ 11743 strings out of 493673
+ 213894 string characters out of 3141529
+ 241175 words of memory out of 3000000
+ 14952 multiletter control sequences out of 15000+200000
  114657 words of font info for 83 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 34i,12n,42p,10452b,506s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,12n,42p,10452b,502s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Fi
 les (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files (x86)/MiKTe
 X 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc
@@ -933,10 +936,10 @@ ram Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files (
 x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy6.pfb><C:/Program Files (x86)/MiKTeX 
 2.9/fonts/type1/public/lm/lmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
 pe1/public/lm/lmtti10.pfb>
-Output written on "natural history of scavenging.pdf" (33 pages, 626582 bytes).
+Output written on "natural history of scavenging.pdf" (33 pages, 669894 bytes).
 
 PDF statistics:
- 361 PDF objects out of 1000 (max. 8388607)
+ 377 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

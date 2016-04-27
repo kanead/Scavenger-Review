@@ -1,4 +1,4 @@
-\begin{thebibliography}{111}
+\begin{thebibliography}{114}
 \providecommand{\natexlab}[1]{#1}
 
 \bibitem[{Aguirre et~al.(2003)}]{aguirre2003implications}
@@ -22,6 +22,11 @@ Anyonge, W. 1996.
 \newblock Locomotor behaviour in plio-pleistocene sabre-tooth cats: a
   biomechanical analysis.
 \newblock -- Journal of Zoology 238: 395--413.
+
+\bibitem[{Bahat et~al.(1998)}]{bahat1998nocturnal}
+Bahat, O. et~al. 1998.
+\newblock Nocturnal variation in body temperature of griffon vultures.
+\newblock -- Condor : 168--171.
 
 \bibitem[{Bates and Falkingham(2012)}]{bates2012estimating}
 Bates, K. and Falkingham, P. 2012.
@@ -64,11 +69,6 @@ Bruce, B. et~al. 2006.
   carcharias) in australian waters.
 \newblock -- Marine Biology 150: 161--172.
 
-\bibitem[{Calder(1996)}]{calder1996size}
-Calder, W.~A. 1996.
-\newblock Size, function, and life history.
-\newblock -- Courier Dover Publications.
-
 \bibitem[{Carbone et~al.(2011)}]{carbone2011intra}
 Carbone, C. et~al. 2011.
 \newblock Intra-guild competition and its implications for one of the biggest
@@ -109,23 +109,15 @@ Clarke, A. and P{\"o}rtner, H.-O. 2010.
 \newblock Temperature, metabolic power and the evolution of endothermy.
 \newblock -- Biological Reviews 85: 703--727.
 
-\bibitem[{Collins et~al.(2005)}]{collins2005trends}
-Collins, M. et~al. 2005.
-\newblock Trends in body size across an environmental gradient: a differential
-  response in scavenging and non-scavenging demersal deep-sea fish.
-\newblock -- Proceedings of the Royal Society of London B: Biological Sciences
-  272: 2051--2057.
-
 \bibitem[{Croxall and Prince(1994)}]{croxall1994dead}
 Croxall, J.~P. and Prince, P.~A. 1994.
 \newblock Dead or alive, night or day: how do albatrosses catch squid?
 \newblock -- Antarctic Science 6: 155--162.
 
-\bibitem[{DePalma et~al.(2013)}]{depalma2013physical}
-DePalma, R.~A. et~al. 2013.
-\newblock Physical evidence of predatory behavior in \textit{Tyrannosaurus
-  rex}.
-\newblock -- Proceedings of the National Academy of Sciences 110: 12560--12564.
+\bibitem[{Danise et~al.(2014)}]{danise2014ecological}
+Danise, S. et~al. 2014.
+\newblock Ecological succession of a jurassic shallow-water ichthyosaur fall.
+\newblock -- Nature communications 5.
 
 \bibitem[{DeVault and Krochmal(2002)}]{devault2002scavenging}
 DeVault, T.~L. and Krochmal, A.~R. 2002.
@@ -207,11 +199,6 @@ Forrest, R. 2003.
 Gittleman, J.~L. 2013.
 \newblock Carnivore behavior, ecology, and evolution.
 \newblock -- Springer Science \& Business Media.
-
-\bibitem[{Grady et~al.(2014)}]{grady2014evidence}
-Grady, J.~M. et~al. 2014.
-\newblock Evidence for mesothermy in dinosaurs.
-\newblock -- Science 344: 1268--1272.
 
 \bibitem[{Gr{\'e}millet et~al.(2012)}]{gremillet2012vultures}
 Gr{\'e}millet, D. et~al. 2012.
@@ -321,6 +308,19 @@ Lisney, T.~J. et~al. 2013.
   new world vultures (aves: Cathartidae).
 \newblock -- The Anatomical Record 296: 1954--1970.
 
+\bibitem[{Long and Jones(1996)}]{long1996sharks}
+Long, J. and Jones, E. 1996.
+\newblock White shark predation and scavenging on cetaceans in the eastern
+  north pacific ocean.
+\newblock --~In: Klimley, P. and Jones, E. (eds.), Great white sharks: the
+  biology of \textit{Carcharodon carcharias}, chap.~27. New York Academic
+  Press, USA, pp. 293--307.
+
+\bibitem[{Margalida(2008)}]{margalida2008bearded}
+Margalida, A. 2008.
+\newblock Bearded vultures (\textit{Gypaetus barbatus}) prefer fatty bones.
+\newblock -- Behavioral Ecology and Sociobiology 63: 187--193.
+
 \bibitem[{Mart{\'\i}n-Serra et~al.(2016)}]{martin2016pursuit}
 Mart{\'\i}n-Serra, A. et~al. 2016.
 \newblock In the pursuit of the predatory behavior of borophagines (mammalia,
@@ -355,16 +355,17 @@ Mole{\'o}n, M. et~al. 2014.
   services.
 \newblock -- BioScience : biu034.
 
+\bibitem[{Mole{\'o}n et~al.(2015)}]{moleon2015carcass}
+Mole{\'o}n, M. et~al. 2015.
+\newblock Carcass size shapes the structure and functioning of an african
+  scavenging assemblage.
+\newblock -- Oikos 124: 1391--1403.
+
 \bibitem[{Monadjem et~al.(2012)}]{monadjem2012survival}
 Monadjem, A. et~al. 2012.
 \newblock Survival and population dynamics of the marabou stork in an isolated
   population, swaziland.
 \newblock -- PLOS ONE 7: e46434.
-
-\bibitem[{Mundy et~al.(1992)}]{mundy1992vultures}
-Mundy, P.~J. et~al. 1992.
-\newblock The vultures of Africa.
-\newblock -- Academic Press London.
 
 \bibitem[{Nagy(2005)}]{Nagy1621}
 Nagy, K.~A. 2005.
@@ -392,12 +393,6 @@ Nudds, R.~L. and Dyke, G.~J. 2010.
 O’Gorman, E.~J. and Hone, D. W.~E. 2012.
 \newblock Body size distribution of the dinosaurs.
 \newblock -- PLoS ONE 7: e51925.
-
-\bibitem[{Owen-Smith and Mills(2008)}]{owen2008predator}
-Owen-Smith, N. and Mills, M.~G. 2008.
-\newblock Predator--prey size relationships in an african large-mammal food
-  web.
-\newblock -- Journal of Animal Ecology 77: 173--183.
 
 \bibitem[{Palmqvist et~al.(2011)}]{palmqvist2011giant}
 Palmqvist, P. et~al. 2011.
@@ -435,6 +430,11 @@ Pobiner, B.~L. 2015.
   scavenging opportunities.
 \newblock -- Journal of human evolution 80: 1--16.
 
+\bibitem[{Pontzer et~al.(2009)}]{pontzer2009biomechanics}
+Pontzer, H. et~al. 2009.
+\newblock Biomechanics of running indicates endothermy in bipedal dinosaurs.
+\newblock -- PLOS ONE 4: e7783.
+
 \bibitem[{Prange et~al.(1979)}]{prange1979scaling}
 Prange, H.~D. et~al. 1979.
 \newblock Scaling of skeletal mass to body mass in birds and mammals.
@@ -444,12 +444,6 @@ Prange, H.~D. et~al. 1979.
 Rayfield, E.~J. et~al. 2001.
 \newblock Cranial design and function in a large theropod dinosaur.
 \newblock -- Nature 409: 1033--1037.
-
-\bibitem[{Reisz and Tsuji(2006)}]{reisz2006articulated}
-Reisz, R.~R. and Tsuji, L.~A. 2006.
-\newblock An articulated skeleton of \textit{Varanops} with bite marks: the
-  oldest known evidence of scavenging among terrestrial vertebrates.
-\newblock -- Journal of Vertebrate Paleontology 26: 1021--1023.
 
 \bibitem[{Reymond(1985)}]{reymond1985spatial}
 Reymond, L. 1985.
@@ -497,6 +491,11 @@ Ruxton, G.~D. and Houston, D.~C. 2004{\natexlab{b}}.
 \newblock Obligate vertebrate scavengers must be large soaring fliers.
 \newblock -- Journal of Theoretical Biology 228: 431--436.
 
+\bibitem[{Ruxton and Wilkinson(2013)}]{ruxton2013endurance}
+Ruxton, G.~D. and Wilkinson, D.~M. 2013.
+\newblock Endurance running and its relevance to scavenging by early hominins.
+\newblock -- Evolution 67: 861--867.
+
 \bibitem[{Ruxton et~al.(2014)}]{ruxton2014fruit}
 Ruxton, G.~D. et~al. 2014.
 \newblock Why fruit rots: theoretical support for janzen's theory of
@@ -531,12 +530,6 @@ Shivik, J.~A. 2006.
   microscavenger conflict?
 \newblock -- BioScience 56: 819--823.
 
-\bibitem[{Slagsvold and Sonerud(2007)}]{slagsvold2007prey}
-Slagsvold, T. and Sonerud, G. 2007.
-\newblock Prey size and ingestion rate in raptors: importance for sex roles and
-  reversed sexual size dimorphism.
-\newblock -- Journal of Avian Biology 38: 650--661.
-
 \bibitem[{Spiegel et~al.(2013)}]{spiegel2013factors}
 Spiegel, O. et~al. 2013.
 \newblock Factors influencing foraging search efficiency: why do scarce
@@ -567,12 +560,25 @@ Thaxter, C.~B. et~al. 2012.
   candidate marine protected areas.
 \newblock -- Biological Conservation 156: 53--61.
 
+\bibitem[{Trinkel and Kastberger(2005)}]{trinkel2005competitive}
+Trinkel, M. and Kastberger, G. 2005.
+\newblock Competitive interactions between spotted hyenas and lions in the
+  etosha national park, namibia.
+\newblock -- african Journal of Ecology 43: 220--224.
+
 \bibitem[{Tucker(1975)}]{tucker1975energetic}
 Tucker, V.~A. 1975.
 \newblock The energetic cost of moving about: Walking and running are extremely
   inefficient forms of locomotion. much greater efficiency is achieved by
   birds, fish and bicyclists.
 \newblock -- American Scientist 63: 413--419.
+
+\bibitem[{Uriona and Farmer(2008)}]{uriona2008recruitment}
+Uriona, T. and Farmer, C. 2008.
+\newblock Recruitment of the diaphragmaticus, ischiopubis and other respiratory
+  muscles to control pitch and roll in the american alligator (alligator
+  mississippiensis).
+\newblock -- Journal of Experimental Biology 211: 1141--1147.
 
 \bibitem[{Van~Valkenburgh(1987)}]{van1987skeletal}
 Van~Valkenburgh, B. 1987.
@@ -626,6 +632,13 @@ Williams, T.~M. 1999.
 \newblock -- Philosophical Transactions of the Royal Society of London B:
   Biological Sciences 354: 193--201.
 
+\bibitem[{Witmer and Ridgely(2009)}]{witmer2009new}
+Witmer, L.~M. and Ridgely, R.~C. 2009.
+\newblock New insights into the brain, braincase, and ear region of
+  tyrannosaurs (dinosauria, theropoda), with implications for sensory
+  organization and behavior.
+\newblock -- The Anatomical Record 292: 1266--1296.
+
 \bibitem[{Witton(2013)}]{witton2013pterosaurs}
 Witton, M.~P. 2013.
 \newblock Pterosaurs: natural history, evolution, anatomy.
@@ -642,5 +655,10 @@ Witton, M.~P. and Naish, D. 2008.
 \newblock A reappraisal of azhdarchid pterosaur functional morphology and
   paleoecology.
 \newblock -- PLOS ONE 3: e2271.
+
+\bibitem[{Zelenitsky et~al.(2011)}]{zelenitsky2011evolution}
+Zelenitsky, D.~K. et~al. 2011.
+\newblock Evolution of olfaction in non-avian theropod dinosaurs and birds.
+\newblock In: Proc. R. Soc. B, vol. 278. The Royal Society, pp. 3625--3634.
 
 \end{thebibliography}
