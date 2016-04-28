@@ -1,4 +1,4 @@
-\begin{thebibliography}{114}
+\begin{thebibliography}{115}
 \providecommand{\natexlab}[1]{#1}
 
 \bibitem[{Aguirre et~al.(2003)}]{aguirre2003implications}
@@ -65,8 +65,8 @@ Brown, C.~J. 1989.
 
 \bibitem[{Bruce et~al.(2006)}]{bruce2006movements}
 Bruce, B. et~al. 2006.
-\newblock Movements and swimming behaviour of white sharks (carcharodon
-  carcharias) in australian waters.
+\newblock Movements and swimming behaviour of white sharks (\textit{Carcharodon
+  carcharias}) in australian waters.
 \newblock -- Marine Biology 150: 161--172.
 
 \bibitem[{Carbone et~al.(2011)}]{carbone2011intra}
@@ -100,8 +100,8 @@ Chin, K. et~al. 1998.
 \bibitem[{Chure and Fiorillo(1997)}]{chure1997one}
 Chure, D. and Fiorillo, A. 1997.
 \newblock One big al to go and hold the mayo: evidence of scavenging of a
-  specimen of allosaurus from the morrison formation (late jurassic) of
-  wyoming.
+  specimen of \textit{Allosaurus} from the morrison formation (late jurassic)
+  of wyoming.
 \newblock -- Journal of Vertebrate Paleontology 17: 38A.
 
 \bibitem[{Clarke and P{\"o}rtner(2010)}]{clarke2010temperature}
@@ -113,6 +113,11 @@ Clarke, A. and P{\"o}rtner, H.-O. 2010.
 Croxall, J.~P. and Prince, P.~A. 1994.
 \newblock Dead or alive, night or day: how do albatrosses catch squid?
 \newblock -- Antarctic Science 6: 155--162.
+
+\bibitem[{Dall et~al.(2005)}]{dall2005information}
+Dall, S.~R. et~al. 2005.
+\newblock Information and its use by animals in evolutionary ecology.
+\newblock -- Trends in Ecology \& Evolution 20: 187--193.
 
 \bibitem[{Danise et~al.(2014)}]{danise2014ecological}
 Danise, S. et~al. 2014.
@@ -145,7 +150,7 @@ Don{\'a}zar, J.~A. et~al. 2002.
 \bibitem[{Ehret et~al.(2009)}]{ehret2009caught}
 Ehret, D.~J. et~al. 2009.
 \newblock Caught in the act: trophic interactions between a 4-million-year-old
-  white shark (carcharodon) and mysticete whale from peru.
+  white shark (\textit{Carcharodon}) and mysticete whale from peru.
 \newblock -- Palaios 24: 329--333.
 
 \bibitem[{Enstipp et~al.(2006)}]{Enstipp2006Energetics}
@@ -158,13 +163,14 @@ Enstipp, M. et~al. 2006.
 \bibitem[{Fahlke(2012)}]{fahlke2012bite}
 Fahlke, J.~M. 2012.
 \newblock Bite marks revisited—evidence for middle-to-late eocene
-  basilosaurus isis predation on dorudon atrox (both cetacea, basilosauridae).
+  \textit{Basilosaurus isis} predation on \textit{Dorudon atrox} (both cetacea,
+  basilosauridae).
 \newblock -- Palaeontologia Electronica 15: 32A.
 
 \bibitem[{Fallows et~al.(2013)}]{fallows2013white}
 Fallows, C. et~al. 2013.
-\newblock White sharks (carcharodon carcharias) scavenging on whales and its
-  potential role in further shaping the ecology of an apex predator.
+\newblock White sharks (\textit{Carcharodon carcharias}) scavenging on whales
+  and its potential role in further shaping the ecology of an apex predator.
 \newblock -- PloS one 8: e60797.
 
 \bibitem[{Farlow and Brinkman(1994)}]{farlow1994wear}
@@ -187,7 +193,7 @@ Ferguson-Lees, J. and Christie, D.~A. 2001.
 Fern{\'a}ndez-Bellon, D. et~al. 2015.
 \newblock Density-dependent productivity in a colonial vulture at two spatial
   scales.
-\newblock -- Ecology .
+\newblock -- Ecology 97: 406--416.
 
 \bibitem[{Forrest(2003)}]{forrest2003evidence}
 Forrest, R. 2003.
@@ -208,8 +214,8 @@ Gr{\'e}millet, D. et~al. 2012.
 
 \bibitem[{Hand et~al.(2012)}]{Hand_Necromantis_2012}
 Hand, S. et~al. 2012.
-\newblock Necromantis weithofer, 1887, large carnivorous middle and late eocene
-  bats from the french quercy phosphorites: new data and unresolved
+\newblock \textit{Necromantis} weithofer, 1887, large carnivorous middle and
+  late eocene bats from the french quercy phosphorites: new data and unresolved
   relationships.
 \newblock --~In: Gunnell, G.~F. and Simmons, N.~B. (eds.), Evolutionary History
   of Bats. Cambridge University Press, pp. 210--251.
@@ -228,8 +234,8 @@ Hone, D.~W. and Rauhut, O.~W. 2010.
 
 \bibitem[{Houston(1974)}]{houston1974role}
 Houston, D. 1974.
-\newblock The role of griffon vultures gyps africanus and gyps ruppellii as
-  scavengers.
+\newblock The role of griffon vultures \textit{Gyps africanus} and \textit{Gyps
+  ruppellii} as scavengers.
 \newblock -- Journal of Zoology 172: 35--46.
 
 \bibitem[{Houston(1986)}]{houston1986olfaction}
@@ -340,7 +346,7 @@ McNab, B.~K. 2009.
 \bibitem[{Mech and Boitani(2010)}]{mech2010wolves}
 Mech, L.~D. and Boitani, L. 2010.
 \newblock Wolves: behavior, ecology, and conservation.
-\newblock -- University of Chicago Press.
+\newblock -- University of Chicago Press, USA.
 
 \bibitem[{Mills(1989)}]{mills1989comparative}
 Mills, M. 1989.
@@ -353,7 +359,7 @@ Mills, M. 1989.
 Mole{\'o}n, M. et~al. 2014.
 \newblock Humans and scavengers: The evolution of interactions and ecosystem
   services.
-\newblock -- BioScience : biu034.
+\newblock -- BioScience 64: 394--403.
 
 \bibitem[{Mole{\'o}n et~al.(2015)}]{moleon2015carcass}
 Mole{\'o}n, M. et~al. 2015.
@@ -385,8 +391,8 @@ Norberg, U.~M. 2012.
 
 \bibitem[{Nudds and Dyke(2010)}]{nudds2010narrow}
 Nudds, R.~L. and Dyke, G.~J. 2010.
-\newblock Narrow primary feather rachises in confuciusornis and archaeopteryx
-  suggest poor flight ability.
+\newblock Narrow primary feather rachises in \textit{Confuciusornis} and
+  \textit{Archaeopteryx} suggest poor flight ability.
 \newblock -- Science 328: 887--889.
 
 \bibitem[{O’Gorman and Hone(2012)}]{10.1371/journal.pone.0051925}
@@ -453,8 +459,9 @@ Reymond, L. 1985.
 
 \bibitem[{Riskin et~al.(2006)}]{riskin2006terrestrial}
 Riskin, D.~K. et~al. 2006.
-\newblock Terrestrial locomotion of the new zealand short-tailed bat mystacina
-  tuberculata and the common vampire bat desmodus rotundus.
+\newblock Terrestrial locomotion of the new zealand short-tailed bat
+  \textit{Mystacina tuberculata} and the common vampire bat \textit{Desmodus
+  rotundus}.
 \newblock -- Journal of Experimental Biology 209: 1725--1736.
 
 \bibitem[{Roggenbuck et~al.(2014)}]{roggenbuck2014microbiome}
@@ -539,8 +546,8 @@ Spiegel, O. et~al. 2013.
 \bibitem[{Spivey et~al.(2014)}]{spivey2014analysing}
 Spivey, R. et~al. 2014.
 \newblock Analysing the intermittent flapping flight of a manx shearwater,
-  puffinus puffinus, and its sporadic use of a wave-meandering wing-sailing
-  flight strategy.
+  \textit{Puffinus puffinus}, and its sporadic use of a wave-meandering
+  wing-sailing flight strategy.
 \newblock -- Progress in Oceanography 125: 62--73.
 
 \bibitem[{Sullivan(2015)}]{sullivan2015posture}
@@ -576,8 +583,8 @@ Tucker, V.~A. 1975.
 \bibitem[{Uriona and Farmer(2008)}]{uriona2008recruitment}
 Uriona, T. and Farmer, C. 2008.
 \newblock Recruitment of the diaphragmaticus, ischiopubis and other respiratory
-  muscles to control pitch and roll in the american alligator (alligator
-  mississippiensis).
+  muscles to control pitch and roll in the american alligator
+  (\textit{Alligator mississippiensis}).
 \newblock -- Journal of Experimental Biology 211: 1141--1147.
 
 \bibitem[{Van~Valkenburgh(1987)}]{van1987skeletal}
