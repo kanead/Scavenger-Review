@@ -1,4 +1,4 @@
-\begin{thebibliography}{115}
+\begin{thebibliography}{121}
 \providecommand{\natexlab}[1]{#1}
 
 \bibitem[{Aguirre et~al.(2003)}]{aguirre2003implications}
@@ -51,6 +51,12 @@ Bennett, A.~F. and Ruben, J.~A. 1979.
 \newblock Endothermy and activity in vertebrates.
 \newblock -- Science 206: 649--654.
 
+\bibitem[{Binder and Van~Valkenburgh(2010)}]{binder2010comparison}
+Binder, W.~J. and Van~Valkenburgh, B. 2010.
+\newblock A comparison of tooth wear and breakage in rancho la brea sabertooth
+  cats and dire wolves across time.
+\newblock -- Journal of Vertebrate Paleontology 30: 255--261.
+
 \bibitem[{Blasco et~al.(2014)}]{ARCM:ARCM12084}
 Blasco, R. et~al. 2014.
 \newblock Breaking bones to obtain marrow: A comparative study between
@@ -68,13 +74,6 @@ Bruce, B. et~al. 2006.
 \newblock Movements and swimming behaviour of white sharks (\textit{Carcharodon
   carcharias}) in australian waters.
 \newblock -- Marine Biology 150: 161--172.
-
-\bibitem[{Carbone et~al.(2011)}]{carbone2011intra}
-Carbone, C. et~al. 2011.
-\newblock Intra-guild competition and its implications for one of the biggest
-  terrestrial predators, \textit{Tyrannosaurus rex}.
-\newblock -- Proceedings of the Royal Society B: Biological Sciences 278:
-  2682--2690.
 
 \bibitem[{Carey et~al.(1982)}]{carey1982temperature}
 Carey, F.~G. et~al. 1982.
@@ -108,6 +107,12 @@ Chure, D. and Fiorillo, A. 1997.
 Clarke, A. and P{\"o}rtner, H.-O. 2010.
 \newblock Temperature, metabolic power and the evolution of endothermy.
 \newblock -- Biological Reviews 85: 703--727.
+
+\bibitem[{Cort{\'e}s-Avizanda et~al.(2014)}]{cortes2014bird}
+Cort{\'e}s-Avizanda, A. et~al. 2014.
+\newblock Bird sky networks: How do avian scavengers use social information to
+  find carrion?
+\newblock -- Ecology 95: 1799--1808.
 
 \bibitem[{Croxall and Prince(1994)}]{croxall1994dead}
 Croxall, J.~P. and Prince, P.~A. 1994.
@@ -303,11 +308,6 @@ Kendall, C.~J. 2013.
   foil the despotic distribution.
 \newblock -- Behavioral Ecology and Sociobiology 67: 383--393.
 
-\bibitem[{Koenig(2006)}]{manga2006vulture}
-Koenig, R. 2006.
-\newblock Vulture research soars as the scavengers' numbers decline.
-\newblock -- Science 312.
-
 \bibitem[{Lisney et~al.(2013)}]{AR:AR22815}
 Lisney, T.~J. et~al. 2013.
 \newblock Comparison of eye morphology and retinal topography in two species of
@@ -338,6 +338,12 @@ Martyniuk, M.~P. 2012.
 \newblock A Field Guide to Mesozoic Birds and Other Winged Dinosaurs.
 \newblock -- Pan Aves.
 
+\bibitem[{Mateo-Tom{\'a}s et~al.(2015)}]{mateo2015regional}
+Mateo-Tom{\'a}s, P. et~al. 2015.
+\newblock From regional to global patterns in vertebrate scavenger communities
+  subsidized by big game hunting.
+\newblock -- Diversity and Distributions 21: 913--924.
+
 \bibitem[{McNab(2009)}]{mcnab2009resources}
 McNab, B.~K. 2009.
 \newblock Resources and energetics determined dinosaur maximal size.
@@ -355,11 +361,17 @@ Mills, M. 1989.
 \newblock --~In: Carnivore behavior, ecology, and evolution. Springer, pp.
   125--142.
 
-\bibitem[{Mole{\'o}n et~al.(2014)}]{moleon2014humans}
-Mole{\'o}n, M. et~al. 2014.
+\bibitem[{Mole{\'o}n et~al.(2014{\natexlab{a}})}]{moleon2014humans}
+Mole{\'o}n, M. et~al. 2014{\natexlab{a}}.
 \newblock Humans and scavengers: The evolution of interactions and ecosystem
   services.
 \newblock -- BioScience 64: 394--403.
+
+\bibitem[{Mole{\'o}n et~al.(2014{\natexlab{b}})}]{moleon2014inter}
+Mole{\'o}n, M. et~al. 2014{\natexlab{b}}.
+\newblock Inter-specific interactions linking predation and scavenging in
+  terrestrial vertebrate assemblages.
+\newblock -- Biological Reviews .
 
 \bibitem[{Mole{\'o}n et~al.(2015)}]{moleon2015carcass}
 Mole{\'o}n, M. et~al. 2015.
@@ -372,6 +384,12 @@ Monadjem, A. et~al. 2012.
 \newblock Survival and population dynamics of the marabou stork in an isolated
   population, swaziland.
 \newblock -- PLOS ONE 7: e46434.
+
+\bibitem[{Moreno-Opo et~al.(2016)}]{moreno2016behavioral}
+Moreno-Opo, R. et~al. 2016.
+\newblock Behavioral coexistence and feeding efficiency drive niche
+  partitioning in european avian scavengers.
+\newblock -- Behavioral Ecology : arw010.
 
 \bibitem[{Nagy(2005)}]{Nagy1621}
 Nagy, K.~A. 2005.
@@ -424,6 +442,18 @@ Pennycuick, C. 1995.
 \newblock --~In: Sinclair, A. R.~E. and Norton-Griffiths, M. (eds.), Serengeti:
   dynamics of an ecosystem, chap.~7. University of Chicago Press, USA, pp.
   164--18.
+
+\bibitem[{Pereira et~al.(2014)}]{pereira2014facultative}
+Pereira, L.~M. et~al. 2014.
+\newblock Facultative predation and scavenging by mammalian carnivores:
+  seasonal, regional and intra-guild comparisons.
+\newblock -- Mammal Review 44: 44--55.
+
+\bibitem[{P{\'e}riquet et~al.(2015)}]{periquet2015lion}
+P{\'e}riquet, S. et~al. 2015.
+\newblock The lion king and the hyaena queen: large carnivore interactions and
+  coexistence.
+\newblock -- Biological Reviews 90: 1197--1214.
 
 \bibitem[{Pobiner(2008)}]{pobiner2008paleoecological}
 Pobiner, B. 2008.
@@ -531,6 +561,12 @@ Sellwood, B.~W. and Valdes, P.~J. 2006.
 \newblock Mesozoic climates: General circulation models and the rock record.
 \newblock -- Sedimentary geology 190: 269--287.
 
+\bibitem[{Shipman(1986)}]{shipman1986scavenging}
+Shipman, P. 1986.
+\newblock Scavenging or hunting in early hominids: theoretical framework and
+  tests.
+\newblock -- American Anthropologist 88: 27--43.
+
 \bibitem[{Shivik(2006)}]{shivik2006vultures}
 Shivik, J.~A. 2006.
 \newblock Are vultures birds, and do snakes have venom, because of macro-and
@@ -555,11 +591,6 @@ Sullivan, C. 2015.
 \newblock Evolution of hind limb posture in triassic archosauriforms.
 \newblock --~In: Dial, K. et~al. (eds.), Great Transformations in Vertebrate
   Evolution, chap.~7. University of Chicago Press, USA, pp. 107--124.
-
-\bibitem[{Tenney(1877)}]{tenney1877few}
-Tenney, S. 1877.
-\newblock A few words about scavengers.
-\newblock -- The American Naturalist 11: 129--135.
 
 \bibitem[{Thaxter et~al.(2012)}]{thaxter2012seabird}
 Thaxter, C.~B. et~al. 2012.
@@ -638,6 +669,11 @@ Williams, T.~M. 1999.
   energetic optimization.
 \newblock -- Philosophical Transactions of the Royal Society of London B:
   Biological Sciences 354: 193--201.
+
+\bibitem[{Wilson and Wolkovich(2011)}]{wilson2011scavenging}
+Wilson, E.~E. and Wolkovich, E.~M. 2011.
+\newblock Scavenging: how carnivores and carrion structure communities.
+\newblock -- Trends in Ecology \& Evolution 26: 129--135.
 
 \bibitem[{Witmer and Ridgely(2009)}]{witmer2009new}
 Witmer, L.~M. and Ridgely, R.~C. 2009.
