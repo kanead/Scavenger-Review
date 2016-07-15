@@ -1,4 +1,4 @@
-\begin{thebibliography}{127}
+\begin{thebibliography}{129}
 \providecommand{\natexlab}[1]{#1}
 
 \bibitem[{Aguirre et~al.(2003)}]{aguirre2003implications}
@@ -386,12 +386,6 @@ Mills, M. 1989.
 \newblock --~In: Carnivore behavior, ecology, and evolution. Springer, pp.
   125--142.
 
-\bibitem[{Mole{\'o}n and S{\'a}nchez-Zapata(2015)}]{moleon2015living}
-Mole{\'o}n, M. and S{\'a}nchez-Zapata, J.~A. 2015.
-\newblock The living dead: Time to integrate scavenging into ecological
-  teaching.
-\newblock -- BioScience : biv101.
-
 \bibitem[{Mole{\'o}n et~al.(2014{\natexlab{a}})}]{moleon2014humans}
 Mole{\'o}n, M. et~al. 2014{\natexlab{a}}.
 \newblock Humans and scavengers: The evolution of interactions and ecosystem
@@ -587,10 +581,22 @@ Schwimmer, D.~R. et~al. 1997.
   of north america.
 \newblock -- Palaios : 71--83.
 
+\bibitem[{Sebasti{\'a}n-Gonz{\'a}lez et~al.(2016)}]{sebastian2016nested}
+Sebasti{\'a}n-Gonz{\'a}lez, E. et~al. 2016.
+\newblock Nested species-rich networks of scavenging vertebrates support high
+  levels of interspecific competition.
+\newblock -- Ecology 97: 95--105.
+
 \bibitem[{Sellwood and Valdes(2006)}]{sellwood2006mesozoic}
 Sellwood, B.~W. and Valdes, P.~J. 2006.
 \newblock Mesozoic climates: General circulation models and the rock record.
 \newblock -- Sedimentary geology 190: 269--287.
+
+\bibitem[{Selva and Fortuna(2007)}]{selva2007nested}
+Selva, N. and Fortuna, M.~A. 2007.
+\newblock The nested structure of a scavenger community.
+\newblock -- Proceedings of the Royal Society B: Biological Sciences 274:
+  1101--1108.
 
 \bibitem[{Selva et~al.(2003)}]{selva2003scavenging}
 Selva, N. et~al. 2003.
@@ -609,6 +615,11 @@ Shivik, J.~A. 2006.
 \newblock Are vultures birds, and do snakes have venom, because of macro-and
   microscavenger conflict?
 \newblock -- BioScience 56: 819--823.
+
+\bibitem[{Smith and Baco(2003)}]{smith2003ecology}
+Smith, C.~R. and Baco, A.~R. 2003.
+\newblock Ecology of whale falls at the deep-sea floor.
+\newblock -- Oceanography and marine biology 41: 311--354.
 
 \bibitem[{Spiegel et~al.(2013)}]{spiegel2013factors}
 Spiegel, O. et~al. 2013.
