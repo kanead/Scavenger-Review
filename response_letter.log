@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.24)  13 JUL 2016 17:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.24)  19 JUL 2016 15:13
 entering extended mode
 **"C:/Users/akane/Desktop/Science/Manuscripts/Ecography Scavenger Review/respon
 se_letter.tex"
@@ -99,35 +99,35 @@ Missing character: There is no “ in font cmr12!
 
 [3] [4]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 79.
+(Font)              <12> on input line 85.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 79.
+(Font)              <8> on input line 85.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 79.
+(Font)              <6> on input line 85.
 
-Overfull \hbox (4.31158pt too wide) in paragraph at lines 79--80
+Overfull \hbox (4.31158pt too wide) in paragraph at lines 85--92
 \OT1/cmr/m/n/12 may have con-sumed more bone than penecon-tem-po-ra-ne-ous dire
  wolves $\OT1/cmtt/m/n/12 https :$
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
 
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 107--108
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
 
  []
 
-
-Overfull \hbox (9.4264pt too wide) in paragraph at lines 111--112
+[7]
+Overfull \hbox (9.4264pt too wide) in paragraph at lines 121--122
 [][]\OT1/cmr/m/n/12 We now re-fer to the be-haviour rather than the species as 
 lack-ing charisma.[] 
  []
 
-[7]
-Overfull \hbox (7.75977pt too wide) in paragraph at lines 132--138
+
+Overfull \hbox (7.75977pt too wide) in paragraph at lines 142--148
 \OT1/cmr/m/n/12 Page 14, bot-tom para-graph, 3rd sen-tence: you may also con-si
 der Moreno-
  []
@@ -150,7 +150,7 @@ Here is how much of TeX's memory you used:
 public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmtt12.pfb>
-Output written on response_letter.pdf (12 pages, 90852 bytes).
+Output written on response_letter.pdf (12 pages, 91781 bytes).
 PDF statistics:
  57 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
