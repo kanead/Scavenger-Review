@@ -83,15 +83,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7536248"
-     inkscape:cx="267.49211"
-     inkscape:cy="275.27846"
+     inkscape:cx="293.23755"
+     inkscape:cy="206.84708"
      inkscape:document-units="px"
-     inkscape:current-layer="g4358"
+     inkscape:current-layer="g4314"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="856"
-     inkscape:window-x="1"
-     inkscape:window-y="46"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -152,27 +152,27 @@
        orientation="1,0"
        id="guide4836" />
     <sodipodi:guide
-       position="417.20726,336.30341"
+       position="12.545443,328.46251"
        orientation="0,1"
        id="guide4945" />
     <sodipodi:guide
-       position="417.99135,295.0674"
+       position="-8.5537112,287.97494"
        orientation="0,1"
        id="guide4947" />
     <sodipodi:guide
-       position="416.92214,254.00958"
+       position="-13.685938,245.77663"
        orientation="0,1"
        id="guide4949" />
     <sodipodi:guide
-       position="438.20565,213.10484"
+       position="-8.5537112,205.28907"
        orientation="0,1"
        id="guide4951" />
     <sodipodi:guide
-       position="417.59073,113.86089"
+       position="2.8512371,106.06602"
        orientation="0,1"
        id="guide4953" />
     <sodipodi:guide
-       position="419.60686,69.707663"
+       position="6.842969,62.727215"
        orientation="0,1"
        id="guide4955" />
     <sodipodi:guide
@@ -199,7 +199,7 @@
      transform="translate(0,-609.44881)">
     <g
        id="g4620"
-       transform="matrix(0.62958508,0,0,0.62958508,-33.813893,606.48576)">
+       transform="matrix(0.62958508,0,0,0.62958508,-33.813893,596.80809)">
       <rect
          y="68.615677"
          x="129.44189"
@@ -246,29 +246,29 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:25.18340302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="146.51201"
-       y="881.26221"
+       y="690.8161"
        id="text4138-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4140-6"
          x="146.51201"
-         y="881.26221"
+         y="690.8161"
          style="font-size:15.73962688px">ENCOUNTER RATE</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:25.18340302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="154.67958"
-       y="1028.5293"
+       y="911.07489"
        id="text4138-6-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4140-6-2"
          x="154.67958"
-         y="1028.5293"
+         y="911.07489"
          style="font-size:15.73962688px">HANDLING TIME</tspan></text>
     <g
        id="g4573"
-       transform="matrix(0.62958508,0,0,0.62958508,463.42602,680.65494)">
+       transform="matrix(0.62958508,0,0,0.62958508,463.42602,688.65494)">
       <image
          transform="matrix(0.7071068,-0.70710676,0.7071068,0.70710676,0,0)"
          width="65.174858"
@@ -313,7 +313,7 @@
          y="163.44878" />
     </g>
     <g
-       transform="matrix(0.62958508,0,0,0.62958508,-29.407293,533.03779)"
+       transform="matrix(0.62958508,0,0,0.62958508,-29.407293,499.40973)"
        id="g4346">
       <image
          width="58.626575"
@@ -358,7 +358,7 @@
          y="579.93787" />
     </g>
     <g
-       transform="matrix(0.62958508,0,0,0.62958508,-29.531933,636.08447)"
+       transform="matrix(0.62958508,0,0,0.62958508,-29.531933,644.08447)"
        id="g4358">
       <path
          inkscape:connector-curvature="0"
@@ -405,7 +405,7 @@
     </g>
     <g
        id="g4210"
-       transform="matrix(0.62958508,0,0,0.62958508,-29.579693,327.74025)">
+       transform="matrix(0.62958508,0,0,0.62958508,-29.579693,335.74025)">
       <flowRoot
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:142.99999475%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot4484-2-0-8"
@@ -514,7 +514,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.62958508,0,0,0.62958508,463.42602,679.39577)"
+       transform="matrix(0.62958508,0,0,0.62958508,463.42602,687.39577)"
        id="g4472">
       <path
          inkscape:connector-curvature="0"
@@ -566,14 +566,14 @@
        width="405.72382"
        height="176.73764"
        x="-422.57758"
-       y="-864.6543" />
+       y="-872.6543" />
     <rect
        style="opacity:0.25100002;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25917017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.25917016, 2.51834032;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4414"
        width="387.88074"
        height="36.057247"
        x="24.735973"
-       y="-734.06915"
+       y="-742.06915"
        transform="scale(1,-1)" />
     <rect
        style="opacity:0.25100002;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25917017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.25917016, 2.51834032;stroke-dashoffset:0;stroke-opacity:1"
@@ -581,10 +581,10 @@
        width="387.88074"
        height="36.057247"
        x="24.759838"
-       y="-775.27423"
+       y="-783.27423"
        transform="scale(1,-1)" />
     <g
-       transform="matrix(-0.70574387,0,0,0.62958508,-124.56612,692.84241)"
+       transform="matrix(-0.70574387,0,0,0.62958508,-124.56612,700.84241)"
        id="g4584">
       <image
          transform="matrix(-0.64124507,-0.76733614,0.76733611,-0.64124512,0,0)"
@@ -605,7 +605,7 @@
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccc" />
         <g
-           transform="matrix(0.4900022,0,0,-0.54495637,-139.45095,1147.3796)"
+           transform="matrix(0.4900022,0,0,-0.54495637,-145.10701,1147.3796)"
            inkscape:label="fighting ptero"
            id="g9033">
           <g
@@ -678,7 +678,7 @@
           </g>
           <g
              id="g11872"
-             transform="translate(-227.44319,152.02635)">
+             transform="translate(-335.78955,152.02635)">
             <g
                clip-path="url(#clipPath11876)"
                id="g11874">
@@ -782,7 +782,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.62958508,0,0,0.62958508,-28.857633,683.4373)"
+       transform="matrix(0.62958508,0,0,0.62958508,-28.857633,736.86535)"
        id="g4380">
       <image
          transform="matrix(0.62947517,-0.7770206,-0.77702074,-0.62947499,0,0)"
@@ -895,7 +895,7 @@
        width="387.88074"
        height="36.057247"
        x="24.759808"
-       y="-816.40039"
+       y="-824.40039"
        transform="scale(1,-1)" />
     <rect
        style="opacity:0.25100002;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25917017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.25917016, 2.51834032;stroke-dashoffset:0;stroke-opacity:1"
@@ -903,7 +903,7 @@
        width="387.88074"
        height="36.057247"
        x="24.759838"
-       y="-857.28278"
+       y="-865.28278"
        transform="scale(1,-1)" />
     <rect
        transform="scale(-1,-1)"
@@ -912,14 +912,14 @@
        width="406.0177"
        height="102.39523"
        x="-422.48077"
-       y="-1011.2812" />
+       y="-1019.2812" />
     <rect
        style="opacity:0.25100002;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25917017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.25917016, 2.51834032;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4414-9-1-2-8"
        width="387.88074"
        height="36.057247"
        x="24.516186"
-       y="-956.54395"
+       y="-1009.972"
        transform="scale(1,-1)" />
     <rect
        style="opacity:0.25100002;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25917017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.25917016, 2.51834032;stroke-dashoffset:0;stroke-opacity:1"
@@ -927,7 +927,7 @@
        width="387.88074"
        height="36.057247"
        x="25.023846"
-       y="-1000.7063"
+       y="-967.07819"
        transform="scale(1,-1)" />
   </g>
 </svg>
