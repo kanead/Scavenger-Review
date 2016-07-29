@@ -1,0 +1,470 @@
+Delivered-To: guillert@ghmail.tcd.ie
+Received: by 10.200.55.137 with SMTP id d9csp1726550qtc;
+        Tue, 14 Jun 2016 08:33:50 -0700 (PDT)
+X-Received: by 10.157.4.16 with SMTP id 16mr6193978otc.125.1465918430049;
+        Tue, 14 Jun 2016 08:33:50 -0700 (PDT)
+Return-Path: <adam.kane@ucc.ie>
+Received: from emea01-am1-obe.outbound.protection.outlook.com (mail-am1lrp0010.outbound.protection.outlook.com. [213.199.154.10])
+        by mx.google.com with ESMTPS id o2si4054412oif.139.2016.06.14.08.33.49
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Tue, 14 Jun 2016 08:33:50 -0700 (PDT)
+Received-SPF: fail (google.com: domain of adam.kane@ucc.ie does not designate 2a01:111:e400:8810::26 as permitted sender) client-ip=2a01:111:e400:8810::26;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@uccireland.onmicrosoft.com;
+       spf=fail (google.com: domain of adam.kane@ucc.ie does not designate 2a01:111:e400:8810::26 as permitted sender) smtp.mailfrom=adam.kane@ucc.ie
+Received: from AM2PR02CA0033.eurprd02.prod.outlook.com (10.160.28.171) by
+ DB5PR0201MB1544.eurprd02.prod.outlook.com (10.166.10.13) with Microsoft SMTP
+ Server (TLS) id 15.1.517.8; Tue, 14 Jun 2016 15:33:47 +0000
+Received: from DB3FFO11FD037.protection.gbl (2a01:111:f400:7e04::164) by
+ AM2PR02CA0033.outlook.office365.com (2a01:111:e400:8400::43) with Microsoft
+ SMTP Server (TLS) id 15.1.517.8 via Frontend Transport; Tue, 14 Jun 2016
+ 15:33:47 +0000
+Authentication-Results: spf=pass (sender IP is 157.56.112.89)
+ smtp.mailfrom=ucc.ie; tcd.ie; dkim=pass (signature was verified)
+ header.d=uccireland.onmicrosoft.com;tcd.ie; dmarc=permerror action=none
+ header.from=ucc.ie;ghmail.tcd.ie; dkim=pass (signature was verified)
+ header.d=uccireland.onmicrosoft.com;
+Received-SPF: Pass (protection.outlook.com: domain of ucc.ie designates
+ 157.56.112.89 as permitted sender) receiver=protection.outlook.com;
+ client-ip=157.56.112.89; helo=emea01-am1-obe.outbound.protection.outlook.com;
+Received: from emea01-am1-obe.outbound.protection.outlook.com (157.56.112.89)
+ by DB3FFO11FD037.mail.protection.outlook.com (10.47.217.68) with Microsoft
+ SMTP Server (TLS) id 15.1.511.7 via Frontend Transport; Tue, 14 Jun 2016
+ 15:33:47 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=uccireland.onmicrosoft.com; s=selector1-ucc-ie;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=m3MArNjVJji/HM3OXvsIuKrToR822CCDLqsZ/BiAECY=;
+ b=gjEMsIIV+aZbaA3rstLoGkkNHyfRZ0aHt8ySumHm82Ww2rk8HFPvvfPwOHY986yVVfIobmgA34ussMqmof+ZZmazm2Mw+dEIEwZH8wlwnTJkgjbmoq/V655KkRdBxg/mer7H+4MC57CQzuSaJ/DbjmxEpUds0jTnNhIJU5yJB9U=
+Received: from AM3PR02MB228.eurprd02.prod.outlook.com (2a01:111:e400:8810::26)
+ by AM3PR02MB226.eurprd02.prod.outlook.com (2a01:111:e400:8810::13) with
+ Microsoft SMTP Server (TLS) id 15.1.506.9; Tue, 14 Jun 2016 15:33:44 +0000
+Received: from AM3PR02MB228.eurprd02.prod.outlook.com
+ ([fe80::e4ab:4555:7d0f:b8be]) by AM3PR02MB228.eurprd02.prod.outlook.com
+ ([fe80::e4ab:4555:7d0f:b8be%16]) with mapi id 15.01.0506.017; Tue, 14 Jun
+ 2016 15:33:44 +0000
+From: "Kane, Adam" <adam.kane@ucc.ie>
+To: Kevin Healy <healyke@tcd.ie>, Andrew Jackson <a.jackson@tcd.ie>,
+	"guillert@tcd.ie" <guillert@tcd.ie>, Graeme Ruxton
+	<graeme.ruxton@st-andrews.ac.uk>
+Subject: Fw: Ecography - Decision on manuscript ECOG-02609
+Thread-Topic: Ecography - Decision on manuscript ECOG-02609
+Thread-Index: AQHRxk2816UuBrr0aUas/+4R85ya9p/pFlaw
+Date: Tue, 14 Jun 2016 15:33:44 +0000
+Message-ID: <AM3PR02MB22810243BE22FB3CFE3BED78B540@AM3PR02MB228.eurprd02.prod.outlook.com>
+References: <1853488995.537571465916529447.JavaMail.wladmin@c045emzs1as.int.thomsonreuters.com>
+In-Reply-To: <1853488995.537571465916529447.JavaMail.wladmin@c045emzs1as.int.thomsonreuters.com>
+Accept-Language: en-IE, en-US
+Content-Language: en-IE
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=adam.kane@ucc.ie; 
+x-originating-ip: [10.141.192.4]
+X-MS-Office365-Filtering-Correlation-Id: 2f5e5b58-63d6-4a86-e719-08d3946946fe
+X-Microsoft-Exchange-Diagnostics-untrusted: 1;AM3PR02MB226;5:Bn6MOXOt2BoUgMAnQfWdPjGdCMA0WN7BsBQZxKwkL+xd/0+myYA2no36Bm2LuPjAJ69fYk1PkFdeSKISsf2sjZ3TSjs3KZAzv+4kHCNLF2NYMAi/YX/FL0wNU1KcLaVW5htlX3jPSLgVy4HXrS/hPQ==;24:KY3gQUnVLKjq+r6/+ygAYKN+99qARJ+fq3qpTuj3IUlqJDDBHDElovOBeJJbfD1d/rCelHfZJhCKuOPGJE+uUToRKI2I+EOhGC+IRdOVD+0=;7:WY+u7p97u4BAOAgNunUqCQinAgjnQ06CjdheQztLOKKHUrocWHEwXuA5YXUg7vb4z0u0FPuXjmnvHEmoutUA1bf/1+PAXokWdNMKQNZoCjGo291vh4h+F+Q9xvKYnPOO2/BJZsaL2R2xyRU4vy6f6QFLLzFohMQj9MrB5w+o8LIMdfZd5o2oEBRlIpXN4aLfgglSwqaaTRVwIqFXsjJzew==
+X-Microsoft-Antispam-Untrusted: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:AM3PR02MB226;
+x-microsoft-antispam-prvs: <AM3PR02MB226E38FE617CC18EE21BFF78B540@AM3PR02MB226.eurprd02.prod.outlook.com>
+x-exchange-antispam-report-test:
+	UriScan:(190756311086443)(136676074152020)(37599857340463)(266621105552129);UriScan:(190756311086443)(136676074152020)(37599857340463)(266621105552129);
+x-exchange-antispam-report-cfa-test:
+	BCL:0;PCL:0;RULEID:(601004)(2401047)(5005006)(8121501046)(10201501046)(3002001);SRVR:AM3PR02MB226;BCL:0;PCL:0;RULEID:;SRVR:AM3PR02MB226;BCL:0;PCL:0;RULEID:(9101531078)(601004)(2401047)(13016025)(13023025)(13018025)(8121501046)(13024025)(3002001)(10201501046);SRVR:DB5PR0201MB1544;BCL:0;PCL:0;RULEID:;SRVR:DB5PR0201MB1544;
+x-forefront-prvs: 09730BD177
+X-Forefront-Antispam-Report-Untrusted: SFV:NSPM;SFS:(10009020)(6009001)(7916002)(53754006)(11905935001)(199003)(189002)(129404003)(51444003)(5250100002)(86362001)(8666004)(106116001)(1860700003)(2906002)(106356001)(105586002)(586003)(3846002)(11100500001)(102836003)(6116002)(2501003)(8936002)(9686002)(19580405001)(5004730100002)(5002640100001)(19580395003)(76176999)(54356999)(74482002)(74316001)(2950100001)(189998001)(31430400001)(2900100001)(87936001)(76576001)(15975445007)(33656002)(1720100001)(3280700002)(101416001)(5008740100001)(92566002)(81166006)(81156014)(8676002)(50986999)(345774005)(97736004)(3660700001)(107886002)(5003600100002)(68736007)(5001770100001)(7059030);DIR:OUT;SFP:1101;SCL:1;SRVR:AM3PR02MB226;H:AM3PR02MB228.eurprd02.prod.outlook.com;FPR:;SPF:None;PTR:InfoNoRecords;A:0;MX:1;LANG:en;
+received-spf: None (protection.outlook.com: ucc.ie does not designate
+ permitted sender hosts)
+SpamDiagnosticOutput: 1:2
+SpamDiagnosticMetadata: 4edbd44368e647eba195f91fdba09490
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: AM3PR02MB226
+Return-Path: adam.kane@ucc.ie
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: d595be8d-b306-45f4-8064-9e5b82fbe52b:0
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: DB3FFO11FD037.protection.gbl
+X-MS-Exchange-Transport-CrossTenantHeadersPromoted: DB3FFO11FD037.protection.gbl
+X-Forefront-Antispam-Report:
+	CIP:157.56.112.89;IPV:NLI;CTRY:US;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:DB5PR0201MB1544;H:emea01-am1-obe.outbound.protection.outlook.com;FPR:;SPF:None;CAT:NONE;LANG:en;CAT:NONE;
+X-Microsoft-Exchange-Diagnostics: 1;DB3FFO11FD037;1:tmUlyrusMkvu82CWvoQMMWXpnCrQC3Ny2JoYB7uGM6z/HY6rQPgnJkl282UrWv9GMW83gxvRksF0/LpLtADKwxRnM0YIo1ZNbEOHiwZo+h/rZnM+HPVF7hO//DPRB8TsGHnOi611+s/BKKgBLASm0dIjN2kylBnn0aSlJgGet102wf3RlYdFy6UulVvv19838BbA35eN4osYIjfwx0GIcupWEp1LGosFyCEtFteZ4STXjqTovFXfhH7OU8pRnz4gBBVJ4hSxm9tgMk630x1m93uwEPoeM8DxitBo8fE7hL4j6S6j8x6btJAAJi940VReJ6oE42ndWGDY955sjHegxsZ+7x5c90r3nTbp0c6vfBR7weAJeXhwbJ/ZeF1ibCdxaJu6DBlZJTVJU72FzGOQTASjYD8UrzeVcy3qwZ+Y3IU5kpXFvvkRVcMSFzbgEJtZMOFlPmqy28tgR8ZWUE73F/t1o2JFUfdWL/wNLDOlMl+u6Nc6Fk34TuDPNz55KSMR/RK3+ajy3NEL6PoRs1zJ7Q==
+X-Microsoft-Exchange-Diagnostics:
+	1;DB5PR0201MB1544;2:Pkk612fdpktYOFzMdpAFLucDYDPBp0gnm0fmng/vc57pKyI6PFj1S7UrkZ4hGZ2bACVwFX9wtBTzkqIGXHrl+ZfIhvcrxnYL09dDnhRyeilBBFPMok4IdyYxDN1x9LII0nCPOiw/JRVA5AskNNAX9S34en6enl0eWDMorWpxtuhzJxTBVVi5WbgbxDb0G1He;3:c6BVJS10bpkXfFzq2t+H6zr/OkzZB9DfG0xwAIhzJT9M/F2AyIK7mgkS+giim1PLAWLQEVQghiKYR1S5FacSdqBsLBCdNCU4Vnq53Do8Q7Db2yYB7hi/E3+sLGHPbRnsIw/OCWbi/JmZ496fSjVkpIQqWjbsDltaOiAhU2waJNdNX+ccyMNHWnRt5gOSi3tuwfYCj8cqW85iJaQ3IgNgIZQeIGMu/c/a/qUfZgLvkFCrC4tYQ44ZTRFTgDoTPSrz+7q+qoKAFT5M3GAu9L+hWetEkC/mSHkokdnxVRdGPAo=
+X-DkimResult-Test: Passed
+X-Microsoft-Antispam:
+	UriScan:;BCL:0;PCL:0;RULEID:(3001016)(71701004)(71702002);SRVR:DB5PR0201MB1544;
+X-Microsoft-Exchange-Diagnostics:
+	1;DB5PR0201MB1544;25:hxej+Fd+2cH7wBBlL2gOlWy4ISulWvil91+YvUsLqof+RZZ1JqilCsahBMZOz/eedGkXEQ0nIILD5X4/QvJBmQZ315FpLvfbdsDYComcqhpHyZ1Ufy2pTkE86E8NCpMvs3tJNk/c1cILrAgL5FsaolSO1dRBy+mOoq9/W1Iyo/cwFVAcG1iB6MuezGd0j7eDzgniXER+BoCJ29WNM5PLlV2r8hGAC3RLudUX4Tkbr7XmE+0egEbrBTloTTqJi6HBc20Kc2ddcfPJG9ZCzBDLjuaX4dgmZy7X6Ly8vdacC3dEYhR+2DSCtIsanR5xZSs6SLz47ViKpWGQF47zE3NOJlCuIe7E9kMryR4TWrD02MkpIXbEcHy9vwk6Ze1hNITwPmbbPJmYjMjn6iQ4dfZYB6ZtOEbLF8JBNLKu8PlNnfZ6nAifhaSRtal48Z6NP60seXyIHhJZMMljVmf5t9vzMY+tg7ZURxCp7cYbdc+o9TJnTjDrV0q0IUsfKiuxeauaPHFv2tA2Z9Vp8ySkCGGKSHXsCgAxUmgLChYGBAmqInBr96vnK61Ll6s9B+3AeJMAzbXzpC7Wgcf3QlXzYNNPrwcpxRhGmjNOHO5bMoXUAZQtHm3/M4LbGmobqJJ+41NDb82sg6UItkbjdW7CNdZ/CQ+VxxEU+Ksybs9rHTcH8IFuTuO4AS0H941v8rVav3QLJWGOoW6C3AZgu3TDMhLgahJZTer0g55lTsUzMYchDE5xFf+RXYVMvHTnT3IGj4FHFil/ptRr1LzXDTY0z+aFUdUtmV6ribcolp3KCa6erjU3FkhX969unD9RkjtTDcijgxZtX6Jp83eGc24e0fEQAuPff39HsJU8HdAHBOfZiwE=
+X-LD-Processed: d595be8d-b306-45f4-8064-9e5b82fbe52b,ExtAddr
+X-TCD-Routed-via-EOP: Routed via EOP
+X-Microsoft-Exchange-Diagnostics:
+	1;DB5PR0201MB1544;20:0RJpynrAH2rxlGJNQ6pl2xrmi+8XHnKKyT7/axoaN8oLXy09QGANa1hLCN2lRrFHimSrTS38/J1nOJ2HorF+GrzaOY+YABmJN/Qr6qt6Fy9ygaaxutNO4stoG0TzJRqgY4MyctX3DTYQOhQfGP4RADnLEhhPzaNdLSx/gA03GqIYn5+5OdsZpVM+owBZWc2j4stc+dPC3tbeHQL/CSUjvFgiYzr3gdyQhTZEBnmrnQ696ersEPnX0PWQ9HYqTul7xciDOxyXtlJBqK058/jAircj5z5AE9KF/s8hT4MbSa00OOpE3+ioCQoqaOE1hkXE42pTjrJqwym0eQjt108+R3TxrIZijGvhw/uwdt/7z2H2aHwuUPIiHTjtCEkeu5BnAOZqqwa/egieo7BL6hiYsiwOEfXeY8wYmVh7gbWwRk17n3vKSso9DIkaP56RcWWf6J0ovB7ODrwFo8ik8lJsGavGDK9Os3Tq1K9zsjj8tvmM2Q5cy4L+fQmfoKOmZS3Wjg2Q+29WLNhwrpOEOYos4mdVAkxSCPDz0Il2pNF/LtxE3tvNbdA+3HvaPyglMJbOGTh+9ZNEOr14OYNZC1uOztn8lTQuxZe7Qr1dKP5gHWc=
+X-Microsoft-Exchange-Diagnostics:
+	1;DB5PR0201MB1544;4:flAv7QdTgrwfh4KZt05ttIMFFqv1JlqfzWb6DPo0dIxlpvJPeKLL0PaGSu/dZnq9gVqaVZQkGNyV1Ja3Hc7ugS8Pngu8fG/hYPUh7Ko5RFlZJTtqmReRvfNKnZA1IjTIxuVjrcXBErDHn/OQT39oZ5j0Kd5REC2UxEGEbpf2EOMg3Rs+pzPpV1BtITm6l7jRK2dAxJklCpY1Ilv42qNo5/Yr3YUpJP7Mw+iYtUv7U89FnWruxx7Q28QUel/c/OaAAeJv+WqHHUBBxRp3MtvcWDRLXmanT0gOgPGzZxJl5Hbbt4GrMDTMaxIO19eKRUhycIReoITURR65bjzdBdSDbL97E1Jyu9jU+njoIKa8sa3ZaIeXKJRiLd+QGlzfA5+4GFokPBVIqDIU24yh7KTmvucXZnzuAkLGaHRTxoAcExrxvjzZYQm8eYY0AnTsa0OTvepmoplaQc3yzpLg6Tz1UFF3qpj5TZqspKZxQmYlj4bcDxLjhI09LGZ4T8+xPyOgL8EICxaefTdX7O4THKgYA8Y1v4cBfXhnzgy8UrRkMAjb3oyGoT41bwS9lN5tshAVZItO7vEbkwo+RFWcPfepjH1IDbVun5sAtKvenRlXSJE=;23:ZIVWEZG5imAfJ7K94JNCcyRjSSFGVrovv0A/pQcvHut/KoNp0Q/FfbQkjMA8IJP9N7BPRNlmxn/8lYN3g/rzAWKN5Ja80iZyKb16/HPslkQzcwMXJ5Sq4Ra37hkdefrQj8YlUeZ+8A/TyrBBpPhlva1pK37aKeN4feLrsuoCnN2A4KQN54OSTl06v+4ZDbrSP8q+GZ+AkbOrXxGRRZKBV+pwKYgFbA3FE2GFe+ngdec=
+X-Microsoft-Exchange-Diagnostics:
+	1;DB5PR0201MB1544;6:D9U90OOA8B/VbU9WfZXZ+asxQel9pLoNkJkYQGGEbj/DIePf7lOix95nkfkesikGPBWf+uxvmgisv7eGc40z3B2kJ6+iiM4BQVhqndKEnnKCqdMN4gNb5RDoW5R7KQQZ/+dx/tBwpEVJIOdPom1CVzETmhj5dQ9kr/jNIt2URZHOarpT3mHMzPsUAhFT0Gi7nQdlQTkaX5/cdv6G3Ty7c1wg8wF72cPn0Krm/cm7W7Q0eN7tl6sGz4Wdl/CjOfMNXi9G4Xd0kj6W9ZbKViuASwrJRf29xg0r/PedttifnozSGmVIMf/oVI7yIoHXn/kn;5:JTsx07RAg6LZ4KMNnZt9w2TcZe5KTXb6OGHx9cfUi8haxZm6YdWuNnrq75B2ICUftRPKcRG0tYFJSvZfemaFkrSMYuAW9B4VX7XWj9p6C/7KytRqWYdFGwOv2SUtAt1QXCh6FT/UaYToqwNVwrxbjw==;24:wrLUhUslUYuM237A0GzUcWSj/VXgDxoT2+9eQayfBN940LiFdLeBbnRtgGzwXOSeCXMBifFoRjhZvJXBb2h0lrMJfgx7v1TV4yArPiOVAs0=;7:kSy3JTNwXpDFhbZ/UierjVhbIsfkreX4eX6kDmsAuLSrDO89lxTnwD3X/EZVE2BvAqyyjsovozLQ+zmu6IqxhYp4CG6tpmx1yEEmbT8zECU2FubxOIfFkWJb1FIUndpCfIlhRqsl98zy5pq44ljJ5xa/kU67GyjdNR4g1r7iaZm2iu+NJu8cI1dpdmFHgvbbLsms/NTwMbsZB6BGfX+sdtriF2W02SaoGOOFmNtgn6c=
+X-OriginatorOrg: TCDUD.onmicrosoft.com
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 14 Jun 2016 15:33:47.0151
+ (UTC)
+X-MS-Exchange-CrossTenant-Id: d595be8d-b306-45f4-8064-9e5b82fbe52b
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DB5PR0201MB1544
+
+Hi all,
+
+Our paper has been rejected by Ecography. Not entirely negative comments ho=
+wever. The main criticisms seem to be directed towards the structure and th=
+e novelty of some portions. Reviewer 3 in particular has drawn up a compreh=
+ensive list of useful suggestions. I'll get back on this asap.=20
+
+Adam=20
+
+________________________________________
+From: onbehalfof+ecography+oikosoffice.lu.se@manuscriptcentral.com <onbehal=
+fof+ecography+oikosoffice.lu.se@manuscriptcentral.com> on behalf of ecograp=
+hy@oikosoffice.lu.se <ecography@oikosoffice.lu.se>
+Sent: 14 June 2016 16:02
+To: Kane, Adam
+Subject: Ecography - Decision on manuscript ECOG-02609
+
+http://mc.manuscriptcentral.com/ecogra
+
+
+14-Jun-2016
+
+Dear Dr. Kane:
+
+I write to you regarding manuscript # ECOG-02609 entitled "A Recipe for Sca=
+venging - the natural history of a behaviour" which you have submitted to E=
+cography.
+
+In view of the criticisms of the reviewer(s) and the recommendation by the =
+Subject Editor, found at the bottom of this letter, your manuscript has bee=
+n rejected by Ecography. However, you are welcome to submit a thoroughly re=
+vised version of your manuscript. If you decide to resubmit, please include=
+ a detailed account of how you handled the editor and reviewers comments. N=
+otice that the resubmitted manuscript will be treated as a new submission a=
+nd may be evaluated by external reviewers.
+
+Thank you for considering Ecography.
+
+Sincerely,
+
+Prof. Miguel Ara=FAjo
+Editor-in-Chief, Ecography
+
+
+
+Recommendation by the Subject Editor (anonymous):
+Three experienced reviews have evaluated your manuscript. Two of them are e=
+xtremely critical of several aspects related to to the general handcraft an=
+d novelly of the review. The third reviewer is more positive, while making =
+substantial recommendations for improvement of the manuscript. Should you b=
+e able to address all of the reviewers comments in a much revised version o=
+f the manuscript I would happy to reconsider the manuscript for considerati=
+on in Ecography and the E4 Award. This is not a provisional acceptance, sin=
+ce the manuscript would need to be revised again.
+
+Reviewer(s)' Comments to Author:
+Reviewer: 1
+
+Comments to the Author
+This paper attempts to synthesize literature on traits that enable scavengi=
+ng behavior in extant and extinct vertebrates.  The paper is mostly well wr=
+itten, and most (but not all) pertinent literature sources are included.  I=
+ do worry about the lack of novelty of the manuscript, and what I perceived=
+ as haphazard organization.  Here are some specific issues that should be a=
+ddressed in my opinion:
+
+1.      Abstract:  Scavenging can be difficult to observe, but probably no =
+more so than predation.  Also, using experimental carcasses, scavenging is =
+actually quite easy to observe.
+2.      Abstract:  You should point out that your =91scale of scavenging=92=
+ is only qualitative; you made no attempt to quantify such traits.
+3.      Introduction:  Much of this section seems to follow DeVault=92s (20=
+03) review paper on scavenging=97in fact, there is almost nothing new here =
+that is not covered in that earlier review.
+4.      Introduction:  You mention that you will use =93other methods in or=
+der to discern the most suitable morphologies=85=94  but you don=92t say wh=
+at they are.  What other methods are you talking about?
+5.      I think that early on in the paper you need to define obligate and =
+facultative scavengers and then throughout the paper, specify which you are=
+ referring to.  For example, in the first sentence of the Detection section=
+, you talk about =91known scavengers=92, but it is unclear if you really me=
+an obligate scavengers.  Nearly all carnivorous vertebrates are scavengers =
+at least to some extent, so you need to elaborate on what you mean when you=
+ talk about =91scavengers=92.
+6.      Last sentence of Introduction:  Again, you propose a =91scale of sc=
+avenging=92, but without quantification, it is unclear how useful this =91s=
+cale=92 is.
+7.      Page 6, 12:  In your discussion of aquatic scavengers, you might wa=
+nt to refer to Beasley et al. (2012; Oikos 121:1021-1026).
+8.      Page 6:  Why is jaw morphology likely to define scavengers?  Please=
+ elaborate.
+9.      Page 9:  It is true that carrion can comprise a large percentage of=
+ a hyena=92s diet, but your text seems misleading.  Most studies have shown=
+ that most of a hyena=92s diet is from predation.  For example, see Cooper =
+et al. (1999; Afr. J. Ecol. 37:149=96160) and Gasaway et al. (1991; Afr. J.=
+ Ecol. 29: 64=9675).
+10.     Your section on Handling Time is so short that I think it should be=
+ cut or combined with another section.
+
+
+Reviewer: 2
+
+Comments to the Author
+This article is a review of the literature what the authors term a "natural=
+ history" of scavenging. They have approached the topic from the perspectiv=
+e of ecological variables (and other variables that condition them) in opti=
+mal foraging theory including encounter rate and handling time, but also me=
+tabolism, locomotion (e.g soaring and swimming), detection, prey availabili=
+ty, competition, and food processing. They describe many useful examples of=
+ the behavior and ecology of obligate and facultative scavengers. But I thi=
+nk they often go to far in their assumptions in trying to weave these examp=
+les together in a synthetic way. Some examples are inferring scrounging beh=
+aviors in flying pterosaurs (pace 11), assuming that hominins used vultures=
+ to identify scavenging opportunities (page 11), surmising that scavenging =
+evolved with the earliest tetrapods based on "potential carrion unexploited=
+ by marine vertebrates" (page 12). There is a lot of "these researchers hav=
+e suggested X" and then taking that as a given fact.
+
+While the authors distinguish between obligate and facultative scavenging, =
+they tend to lump them together when it comes to constructing their argumen=
+ts. In the end, is the argument about the former, or the latter? Is the rea=
+l interest in whether species scavenge at all, what proportion of their res=
+ources are obtained by scavenging, or what the conditions are that produce =
+facultative or obligate scavengers? They also seem to ignore flexibility in=
+ species' behaviors. For instance, while spotted hyenas are on their highly=
+ scavenging side of their Figures 1 and 2, in some ecosystems they hunt sig=
+nificant proportion of their prey. Similarly, lions can take a large propor=
+tion of their prey as scavenged, as the authors note. But to suggest, as th=
+ey do in their abstract, that they can apply their scale of scavenging to a=
+ny species at any time to judge how important scavenging was in its diet is=
+ frankly completely ignoring behavioral variability over time and space. It=
+ is substantially more difficult with fossil species for which we may know =
+far fewer of the variables they list in Figure 1, in a nuanced way. Figure =
+2 does not display the diversity of scavengers through time, it displays ex=
+amples of species that display observed or inferred scavenging behaviors. D=
+iversity has specific ecological definition(s) that are being ignored here.
+
+If the authors chose to resubmit, I would suggest they organize their manus=
+cript based on known information about modern species, known (e.g. bone pro=
+cessing by theropods) and inferred (e.g. scavenging in hominins) informatio=
+n about fossil species, and then try to draw broader conclusions. They migh=
+t look to articles about other modern scavenging opportunities such as Capa=
+ldo and Peter's study of wildebeest drownings http://www.sciencedirect.com/=
+science/article/pii/S0305440385700398, and suggestions that sabertooth cats=
+ which they claim were unable to feed on bones may have consumed more bone =
+than penecontemporaneous dire wolves https://www.jstor.org/stable/20627167?=
+seq=3D1#page_scan_tab_contents.
+
+In sum, while I think the aim of the article is a very worthwhile one, I th=
+ink the authors cannot claim to have produced an all-encompassing model tha=
+t can predict the presence or level of scavenging in any organism - because=
+ I think this simply cannot be done.
+
+Finally, some of the perspectives of this manuscript overlap substantially =
+with parts of Beasley et al. 2015 (pages 108-112), which is cited numerous =
+times in the manuscript.
+
+
+Reviewer: 3
+
+Comments to the Author
+This is a well-written, enjoyable manuscript that assesses the functional t=
+raits associated to past and, mostly, current major vertebrate scavengers. =
+As a result, the authors provide a sort of guide to identify the extent of =
+scavenging behaviour among carnivores in both current and past ecosystems. =
+I have several suggestions that should be considered before publication (pl=
+ease see below).
+
+Major comments:
+
+1. Invertebrates are ignored completely throughout the ms. Please specify i=
+n the Introduction that this review focuses on vertebrate scavengers. In th=
+is line, I recommend to include =93in vertebrates=94 at the end of the titl=
+e to be more specific. Also, in the =93Competition=94 section you mention c=
+ompetition with vertebrates and micro-organisms, but not with invertebrates=
+. You should consider them in this section (and in =93Facilitation=94; see =
+next point).
+
+2. I found difficult to follow the main point of the paper because the ms i=
+s not well organized. Following a hierarchical order, I=92d define four/fiv=
+e main sections: =93Introduction=94, =93The Challenges of Scavenging=94 (th=
+is could be a subsection within the previous section), =93Encounter Rate=94=
+ (with four different subsections: =93Metabolism=94, =93Locomotion=94, =93S=
+ensory Detection=94 and =93Carcass Availability=94), =93Handling Time=94 (w=
+hich would include =93Food Processing=94) and =93Conclusion=94. Moreover, =
+=93Competition=94 and =93Facilitation=94 (I strongly encourage you to consi=
+der not only competitive, but also facilitative processes, which are mostly=
+ neglected in your review) should be treated as transversal factors that ca=
+n modulate each of the abovementioned parameters. Thus, I=92d include them =
+in a different section, or mention the competitive and facilitative process=
+es related to each parameter within each subsection. Fig. 1 should be re-or=
+ganized accordingly.
+
+3. The use of the scientific literature on scavenging is deficient, especia=
+lly for a review paper like this. A number of key references are missing, e=
+.g., Selva & Fortuna (2007 Proc. R Soc. B 274:1101-1108), Wilson & Wolkovic=
+h (2011 TREE 23:129-135), Beasley et al. (2012 Oikos 121:1021-1026), Cort=
+=E9s-Avizanda et al. (2012 Ecology 93:2570-2579), Cort=E9s-Avizanda et al. =
+(2014 Ecology 95:1799-1808), Mole=F3n et al. (2014 Biol. Rev. 89:1042-1054)=
+, Pereira et al. (2014 Mammal Rev. 44:44-55), P=E9riquet et al. (2015 Biol.=
+ Rev. 90:1197-1214), Mateo-Tom=E1s et al. (2015 Divers. Distrib. 21:913-924=
+), Mole=F3n & S=E1nchez-Zapata (2015 BioScience 65:1003-1010), Moreno-Opo e=
+t al. (2016 Behav. Ecol.), Sebasti=E1n-Gonz=E1lez et al. (2016 Ecology 97:9=
+5-105). Your literature synthesis might benefit from the reading of these a=
+rticles, for instance regarding competitive and facilitative interactions a=
+mong scavengers. Also, the review would be more informative and useful for =
+readers. Next I mention some particular comments regarding the use of the r=
+eferences (I mention others in Minor comments):
+Page 2, 1st sentence: but see Mole=F3n & S=E1nchez-Zapata (2015); many of t=
+he most charismatic vertebrates of the world are scavengers. Rather than =
+=93scavengers=94, what is not charismatic is probably =93scavenging=94.
+Page 2, 13th line: Mole=F3n & S=E1nchez-Zapata (2015) may be more appropria=
+te than Koenig (2006) because the former is more general and not restricted=
+ to vultures.
+Page 2, lines 17th-18th: see Pereira et al. (2014) and P=E9riquet et al. (2=
+015) for reviews.
+Page 3, bottom paragraph, bottom line: this is not true, as scavenging may =
+indirectly affect herbivore populations and thus carrion availability (see =
+Mole=F3n et al. 2014 Biol. Rev.).
+Page 5, bottom paragraph, 1st sentence: Mateo-Tom=E1s et al. (2015) is more=
+ general than Kendall (2013).
+Page 8, 1st and 2nd sentences: see Pereira et al. (2014) and P=E9riquet et =
+al. (2015).
+Page 8, 3rd sentence: you may also cite DeVault et al. (2003) and Pereira e=
+t al. (2014).
+Page 8, 8th-17th lines: please reword; wild dogs hardly scavenge, while leo=
+pards and lions are frequent scavengers (see Pereira et al. 2014).
+Page 11, 1st sentence: see Kane et al. (2014) and Mole=F3n et al. (2014 Bio=
+l. Rev.) for inter-specific interactions.
+Page 11, 4th sentence: Kane et al. (2014) is not appropriate here because i=
+t is about inter-specific interactions; use Cort=E9s-Avizanda et al. (2014)=
+ instead.
+Page 14, 2nd paragraph, 1st sentence: see also Mole=F3n et al. (2014 Biol. =
+Rev.) and Pereira et al. (2014).
+Page 14, 2nd paragraph, 2nd sentence: see better Pereira et al. (2014) and =
+P=E9riquet et al. (2015).
+Page 14, bottom paragraph, 3rd sentence: you may also consider Moreno-Opo e=
+t al. (2016).
+Page 15, 2nd paragraph, 2nd sentence: see also Mole=F3n et al. (2014 Biol. =
+Rev.) and Pereira et al. (2014).
+
+4. You should include more discussion about the importance of carcass size =
+throughout the ms, as it has a strong influence on scavenging patterns and =
+interactions among vertebrates and between vertebrates and smaller carrion =
+consumers (e.g., see Mole=F3n et al. 2015).
+
+Minor comments:
+
+GENERAL
+
+1. Please provide line numbers to facilitate the reviewing process.
+
+ABSTRACT
+
+2. You could remove =93, the first to our knowledge=94.
+
+3. Also, you could mention some relevant specific findings of your synthesi=
+s.
+
+THE CHALLENGES OF SCAVENGING
+
+4. Page 3, 1st sentence: =93often difficult to predict=94 compared to what?=
+ Please specify. There are many examples in which carrion is highly predict=
+able, e.g., during salmon spawning (see also Pereira et al. 2014).
+
+ENCOUNTER RATE
+
+5. Page 3, bottom paragraph, 3rd line: change =93Alternatively=94 to =93Als=
+o=94?
+
+METABOLISM
+
+6. Page 4, 1st sentence: =93the sporadic nature of carrion=94; please expla=
+in.
+
+LOCOMOTION
+
+7. Page 4, bottom paragraph, 1st sentence: change =93inherent=94 to =93rela=
+tive=94.
+
+8. Page 4, bottom paragraph, 3rd sentence: remove =93, paradoxically,=94.
+
+9. Page 5, 2nd paragraph, 1st sentence: change =93appear=94 to =93appeared=
+=94. Also, specify Mya for the Cretaceous period.
+
+10. Page 9, top paragraph: please be more cautious in your assertion, as co=
+operation skills and tools of early hominins probably allowed them to defen=
+d and usurp carcasses from more powerful scavengers.
+
+DETECTION
+
+11. Page 11, top and 2nd paragraph, 1st sentence: this is about facilitatio=
+n. As said above, facilitative processes may affect other parameters as wel=
+l, not only the ability to detect carrion.
+
+12. Page 11, last sentence: explain why wind speed affects the olfactory ca=
+pacity of an aquatic species.
+
+PREY AVAILABILITY
+
+13. I=92d change this title to =93Carcass Availability=94, which is more sp=
+ecific.
+
+14. Among the different components of carcass availability, e.g., abundance=
+, duration, predictability and accessibility, in this section you only talk=
+ about abundance and duration. You should also discuss about carcass predic=
+tability (e.g., see Cort=E9s-Avizanda et al. 2012) and carcass accessibilit=
+y (e.g., see DeVault & Krochmal 2002).
+
+15. Page 12, 2nd paragraph, 1st sentence: as said before, this is not true,=
+ given that scavenging may indirectly affect herbivore populations and thus=
+ carrion availability (see Mole=F3n et al. 2014 Biol. Rev.).
+
+16. Page 13, 3rd and 4th sentences: whaling has exerted also a huge negativ=
+e impact on scavengers by depleting whale populations. If you are going to =
+talk about human impacts, maybe is better to do it at the end of the ms, pe=
+rhaps in a new section in which you explore which scavenging traits could b=
+e more successful in a human dominated world.
+
+17. You should also take into account facilitative processes. For instance,=
+ some scavengers are able to access the interior of carcasses only once oth=
+er, more powerful species, has opened the skin (see Mole=F3n et al. 2014 Bi=
+ol. Rev.).
+
+18. Page 14, bottom paragraph, 2nd sentence: I=92d change it to =93This is =
+true for many vultures and other major avian scavengers such as albatrosses=
+ who all have [=85]=94.
+
+FOOD PROCESSING
+
+19. Page 16, 2nd paragraph, 6th sentence: insert =93Within mammals,=94 befo=
+re =93This ability=94.
+
+20. Page 17, 2nd paragraph, 4th sentence: do you refer to species or indivi=
+duals? Higher species diversity doesn=92t mean more individuals.
+
+21. Page 18, 1st sentence: change =93enabling=94 to =93enable=94.
+
+22. Page 18, 3rd sentence: =93thus=94? I don=92t understand this sentence; =
+could you please reword it?
+
+23. Page 18, 5th sentence: =93The mix of strong and weak features in their =
+skull morphology=94; please explain it.
+
+CONCLUSION
+
+24. Page 18, bottom paragraph, 3rd sentence: change =93technique=94 to =93a=
+pproach=94?
+
+FIGURES
+
+25. Fig. 2: you may insert the name and Mya range of each period in the X a=
+xis rather than in the figure legend. Also, I=92d indicate =93aerial=94, =
+=93terrestrial=94 and =93aquatic=94 in the Y axis rather than in the legend=
+.
+
+
+Hope this helps,
+Marcos Mole=F3n
