@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.24)  19 JUL 2016 15:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.24)  8 AUG 2016 17:37
 entering extended mode
 **"C:/Users/akane/Desktop/Science/Manuscripts/Ecography Scavenger Review/respon
 se_letter.tex"
@@ -87,8 +87,6 @@ Missing character: There is no € in font cmr12!
 Missing character: There is no ” in font cmr12!
  [2]
 Missing character: There is no Ã in font cmti12!
-Missing character: There is no ³ in font cmti12!
-Missing character: There is no Ã in font cmti12!
 Missing character: There is no ¡ in font cmti12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
@@ -97,62 +95,62 @@ Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
 
-[3] [4]
+[3] [4] [5]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 85.
+(Font)              <12> on input line 128.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 85.
+(Font)              <8> on input line 128.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 85.
+(Font)              <6> on input line 128.
 
-Overfull \hbox (4.31158pt too wide) in paragraph at lines 85--92
+Overfull \hbox (4.31158pt too wide) in paragraph at lines 127--132
 \OT1/cmr/m/n/12 may have con-sumed more bone than penecon-tem-po-ra-ne-ous dire
  wolves $\OT1/cmtt/m/n/12 https :$
  []
 
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 110--111
-
- []
-
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 117--118
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
 
  []
 
 [7]
-Overfull \hbox (9.4264pt too wide) in paragraph at lines 121--122
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+
+ []
+
+
+Overfull \hbox (9.4264pt too wide) in paragraph at lines 174--175
 [][]\OT1/cmr/m/n/12 We now re-fer to the be-haviour rather than the species as 
 lack-ing charisma.[] 
  []
 
-
-Overfull \hbox (7.75977pt too wide) in paragraph at lines 142--148
+[8]
+Overfull \hbox (7.75977pt too wide) in paragraph at lines 195--201
 \OT1/cmr/m/n/12 Page 14, bot-tom para-graph, 3rd sen-tence: you may also con-si
 der Moreno-
  []
 
-[8] [9] [10]
+[9] [10] [11]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ¦ in font cmr12!
- [11] [12] (response_letter.aux) ) 
+ [12] [13] [14] (response_letter.aux) ) 
 Here is how much of TeX's memory you used:
- 1049 strings out of 493673
- 13783 string characters out of 3141529
+ 1050 strings out of 493673
+ 13791 string characters out of 3141529
  71255 words of memory out of 3000000
- 4443 multiletter control sequences out of 15000+200000
+ 4444 multiletter control sequences out of 15000+200000
  8103 words of font info for 29 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 22i,6n,19p,1225b,207s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmtt12.pfb>
-Output written on response_letter.pdf (12 pages, 91781 bytes).
+ 22i,6n,19p,1231b,207s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmtt12.pfb>
+Output written on response_letter.pdf (14 pages, 99049 bytes).
 PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
+ 64 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

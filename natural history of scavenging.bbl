@@ -1,4 +1,4 @@
-\begin{thebibliography}{130}
+\begin{thebibliography}{135}
 \providecommand{\natexlab}[1]{#1}
 
 \bibitem[{Aguirre et~al.(2003)}]{aguirre2003implications}
@@ -28,12 +28,6 @@ Bahat, O. et~al. 1998.
 \newblock Nocturnal variation in body temperature of griffon vultures.
 \newblock -- Condor : 168--171.
 
-\bibitem[{Bamford et~al.(2009)}]{bamford2009effect}
-Bamford, A.~J. et~al. 2009.
-\newblock An effect of vegetation structure on carcass exploitation by vultures
-  in an african savanna.
-\newblock -- Ostrich 80: 135--137.
-
 \bibitem[{Bates and Falkingham(2012)}]{bates2012estimating}
 Bates, K. and Falkingham, P. 2012.
 \newblock Estimating maximum bite performance in \textit{Tyrannosaurus rex}
@@ -62,6 +56,11 @@ Beasley, J.~C. et~al. 2012.
 Bennett, A.~F. and Ruben, J.~A. 1979.
 \newblock Endothermy and activity in vertebrates.
 \newblock -- Science 206: 649--654.
+
+\bibitem[{Bernard et~al.(2010)}]{bernard2010regulation}
+Bernard, A. et~al. 2010.
+\newblock Regulation of body temperature by some mesozoic marine reptiles.
+\newblock -- Science 328: 1379--1382.
 
 \bibitem[{Binder and Van~Valkenburgh(2010)}]{binder2010comparison}
 Binder, W.~J. and Van~Valkenburgh, B. 2010.
@@ -97,6 +96,11 @@ Carrier, D.~R. 1987.
 \newblock The evolution of locomotor stamina in tetrapods: circumventing a
   mechanical constraint.
 \newblock -- Paleobiology : 326--341.
+
+\bibitem[{Casewell et~al.(2013)}]{casewell2013complex}
+Casewell, N.~R. et~al. 2013.
+\newblock Complex cocktails: the evolutionary novelty of venoms.
+\newblock -- Trends in ecology \& evolution 28: 219--229.
 
 \bibitem[{Chiappe and Dyke(2006)}]{chiappe2006early}
 Chiappe, L.~M. and Dyke, G.~J. 2006.
@@ -243,6 +247,11 @@ Gittleman, J.~L. 2013.
 \newblock Carnivore behavior, ecology, and evolution.
 \newblock -- Springer Science \& Business Media.
 
+\bibitem[{Grady et~al.(2014)}]{grady2014evidence}
+Grady, J.~M. et~al. 2014.
+\newblock Evidence for mesothermy in dinosaurs.
+\newblock -- Science 344: 1268--1272.
+
 \bibitem[{Gr{\'e}millet et~al.(2012)}]{gremillet2012vultures}
 Gr{\'e}millet, D. et~al. 2012.
 \newblock Vultures of the seas: hyperacidic stomachs in wandering albatrosses
@@ -354,6 +363,11 @@ Long, J. and Jones, E. 1996.
   biology of \textit{Carcharodon carcharias}, chap.~27. New York Academic
   Press, USA, pp. 293--307.
 
+\bibitem[{Lovegrove(2016)}]{lovegrove2016phenology}
+Lovegrove, B.~G. 2016.
+\newblock A phenology of the evolution of endothermy in birds and mammals.
+\newblock -- Biological Reviews .
+
 \bibitem[{Margalida(2008)}]{margalida2008bearded}
 Margalida, A. 2008.
 \newblock Bearded vultures (\textit{Gypaetus barbatus}) prefer fatty bones.
@@ -397,6 +411,12 @@ Mills, M. 1989.
   and food dispersion.
 \newblock --~In: Carnivore behavior, ecology, and evolution. Springer, pp.
   125--142.
+
+\bibitem[{Mole{\'o}n and S{\'a}nchez-Zapata(2015)}]{moleon2015living}
+Mole{\'o}n, M. and S{\'a}nchez-Zapata, J.~A. 2015.
+\newblock The living dead: Time to integrate scavenging into ecological
+  teaching.
+\newblock -- BioScience : biv101.
 
 \bibitem[{Mole{\'o}n et~al.(2014{\natexlab{a}})}]{moleon2014humans}
 Mole{\'o}n, M. et~al. 2014{\natexlab{a}}.
@@ -710,6 +730,11 @@ Weithofer, A. 1887.
 \newblock Zur kenntniss der fossilen cheiropteren der franz\"{o}sischen
   phosphorite.
 \newblock -- Mathematisch-naturwissenschaftlich 96: 341--–360.
+
+\bibitem[{Wellnhofer(1991)}]{wellnhofer1991illustrated}
+Wellnhofer, P. 1991.
+\newblock The illustrated encyclopedia of pterosaurs.
+\newblock -- Crescent Books.
 
 \bibitem[{Whitehead and Reeves(2005)}]{Whitehead415}
 Whitehead, H. and Reeves, R. 2005.
