@@ -1,15 +1,14 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.24)  8 AUG 2016 17:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.1.4)  10 AUG 2016 14:19
 entering extended mode
-**"C:/Users/akane/Desktop/Science/Manuscripts/Ecography Scavenger Review/respon
-se_letter.tex"
-
-("C:/Users/akane/Desktop/Science/Manuscripts/Ecography Scavenger Review/respons
-e_letter.tex"
-LaTeX2e <2015/01/01> patch level 2
-Babel <3.9m> and hyphenation patterns for 69 languages loaded.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**response_letter.tex
+(./response_letter.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -24,30 +23,32 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 142.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count87
 ))
-(response_letter.aux)
+(./response_letter.aux)
+\openout1 = `response_letter.aux'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
@@ -61,7 +62,7 @@ LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count88
 \scratchdimen=\dimen103
@@ -81,76 +82,100 @@ Overfull \hbox (39.23972pt too wide) in paragraph at lines 15--15
 
 [1
 
-{C:/Users/akane/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Runaway argument?
+{We now emphasise that our scale is qualitative here and throughout t\ETC.
+! Paragraph ended before \@textcolor was complete.
+<to be read again> 
+                   \par 
+l.52 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ” in font cmr12!
- [2]
+[2]
 Missing character: There is no Ã in font cmti12!
 Missing character: There is no ¡ in font cmti12!
+ [3]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
+ [4]
+! Too many }'s.
+l.119 ...ing on the species and the ecosystem.''}}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
 
-[3] [4] [5]
+[5] [6]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 128.
+(Font)              <12> on input line 154.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 128.
+(Font)              <8> on input line 154.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 128.
+(Font)              <6> on input line 154.
 
-Overfull \hbox (4.31158pt too wide) in paragraph at lines 127--132
+Overfull \hbox (4.31158pt too wide) in paragraph at lines 153--155
 \OT1/cmr/m/n/12 may have con-sumed more bone than penecon-tem-po-ra-ne-ous dire
- wolves $\OT1/cmtt/m/n/12 https :$
+ wolves $\OT1/cmtt/m/n/12 https :
  []
 
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 163--164
-
- []
+Runaway argument?
+{We have paid particular attention towards making the structure or ou\ETC.
+! Paragraph ended before \@textcolor was complete.
+<to be read again> 
+                   \par 
+l.176 
+      
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 170--171
+Underfull \hbox (badness 10000) in paragraph at lines 197--198
 
- []
-
-
-Overfull \hbox (9.4264pt too wide) in paragraph at lines 174--175
-[][]\OT1/cmr/m/n/12 We now re-fer to the be-haviour rather than the species as 
-lack-ing charisma.[] 
  []
 
 [8]
-Overfull \hbox (7.75977pt too wide) in paragraph at lines 195--201
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+
+ []
+
+[9]
+Overfull \hbox (7.75977pt too wide) in paragraph at lines 233--239
 \OT1/cmr/m/n/12 Page 14, bot-tom para-graph, 3rd sen-tence: you may also con-si
 der Moreno-
  []
 
-[9] [10] [11]
+[10] [11] [12] [13]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ¦ in font cmr12!
- [12] [13] [14] (response_letter.aux) ) 
+ [14] [15] (./response_letter.aux) ) 
 Here is how much of TeX's memory you used:
- 1050 strings out of 493673
- 13791 string characters out of 3141529
- 71255 words of memory out of 3000000
- 4444 multiletter control sequences out of 15000+200000
- 8103 words of font info for 29 fonts, out of 3000000 for 9000
- 1025 hyphenation exceptions out of 8191
- 22i,6n,19p,1231b,207s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmtt12.pfb>
-Output written on response_letter.pdf (14 pages, 99049 bytes).
+ 1048 strings out of 493089
+ 13634 string characters out of 6134843
+ 71803 words of memory out of 5000000
+ 4580 multiletter control sequences out of 15000+600000
+ 8103 words of font info for 29 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 22i,6n,19p,1153b,207s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmtt12.pfb>
+Output written on response_letter.pdf (15 pages, 95782 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
+ 69 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

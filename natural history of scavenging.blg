@@ -1,4 +1,6 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: natural history of scavenging.aux
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: natural history of scavenging.aux
 The style file: ecography.bst
 Database file #1: bibfile.bib
 I was expecting a `,' or a `}'---line 1127 of file bibfile.bib
@@ -16,4 +18,45 @@ Repeated entry---line 3056 of file bibfile.bib
  :                              ,
 I'm skipping whatever remains of this entry
 Warning--can't use both volume and number fields in zelenitsky2011evolution
+You've used 137 entries,
+            2668 wiz_defined-function locations,
+            1379 strings with 32325 characters,
+and the built_in function-call counts, 74657 in all, are:
+= -- 7065
+> -- 2526
+< -- 94
++ -- 1223
+- -- 725
+* -- 4556
+:= -- 12324
+add.period$ -- 421
+call.type$ -- 137
+change.case$ -- 870
+chr.to.int$ -- 135
+cite$ -- 138
+duplicate$ -- 5065
+empty$ -- 5391
+format.name$ -- 1145
+if$ -- 14932
+int.to.chr$ -- 3
+int.to.str$ -- 1
+missing$ -- 1064
+newline$ -- 689
+num.names$ -- 562
+pop$ -- 1886
+preamble$ -- 1
+purify$ -- 723
+quote$ -- 0
+skip$ -- 2211
+stack$ -- 0
+substring$ -- 4536
+swap$ -- 2449
+text.length$ -- 19
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1206
+warning$ -- 1
+while$ -- 643
+width$ -- 0
+write$ -- 1916
 (There were 3 error messages)
