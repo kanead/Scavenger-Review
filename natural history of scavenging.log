@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.1.4)  10 AUG 2016 15:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.1.4)  11 AUG 2016 12:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -934,13 +934,6 @@ Package pdftex.def Info: CompositeFigure/Compositefig4.pdf used on input line 7
  [3] [4 <./CompositeFigure/Compositefig4.pdf>] [5] [6] [7] [8] [9] [10] [11] [1
 2] [13] [14] [15] [16] [17] [18]
 [19] [20] [21] [22]
-<timeline_figure/timeLine.pdf, id=257, 847.41728pt x 619.0698pt>
-File: timeline_figure/timeLine.pdf Graphic file (type pdf)
-
-<use timeline_figure/timeLine.pdf>
-Package pdftex.def Info: timeline_figure/timeLine.pdf used on input line 367.
-(pdftex.def)             Requested size: 460.72124pt x 336.56924pt.
- [23 <./timeline_figure/timeLine.pdf>]
 LaTeX Font Info:    Calculating math sizes for size <8.39996> on input line 382
 .
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -949,41 +942,41 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5.87994> on input line 382.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <4.19998> on input line 382.
-
-[24] (./natural history of scavenging.bbl
+ [23] [24] (./natural history of scavenging.bbl
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 33.
- [25] [26] [27] [28] [29] [30]
-[31] [32] [33] [34] [35] [36]) [37] (./natural history of scavenging.aux) ) 
+ [25]
+[26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36]) [37]
+(./natural history of scavenging.aux) ) 
 Here is how much of TeX's memory you used:
- 11195 strings out of 493089
- 207492 string characters out of 6134843
- 243628 words of memory out of 5000000
- 14513 multiletter control sequences out of 15000+600000
+ 11188 strings out of 493089
+ 207323 string characters out of 6134843
+ 243619 words of memory out of 5000000
+ 14508 multiletter control sequences out of 15000+600000
  114657 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,12n,39p,10461b,546s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/us
-r/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texliv
-e/2015/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2015/texmf-d
-ist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2015/texmf-dist/fonts/
-enc/dvips/lm/lm-mathit.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/publ
-ic/lm/lmmi12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmr6
-.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/l
-ocal/texlive/2015/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texli
-ve/2015/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2015/te
-xmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2015/texmf-dist/fo
-nts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
-1/public/lm/lmsso10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
-lm/lmsso12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy10
-.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></usr/
-local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texli
-ve/2015/texmf-dist/fonts/type1/public/lm/lmtti10.pfb>
-Output written on "natural history of scavenging.pdf" (38 pages, 798298 bytes).
+{/usr/local/texlive/2015/texmf-dist/font
+s/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm
+/lm-rm.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
+}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</usr/loc
+al/texlive/2015/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive
+/2015/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texlive/2015/texmf-
+dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2015/texmf-dist/fonts/t
+ype1/public/lm/lmss10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publi
+c/lm/lmss12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmss8
+.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></u
+sr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/
+texlive/2015/texmf-dist/fonts/type1/public/lm/lmsso12.pfb></usr/local/texlive/2
+015/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2015/texmf-
+dist/fonts/type1/public/lm/lmsy6.pfb></usr/local/texlive/2015/texmf-dist/fonts/
+type1/public/lm/lmsy8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publi
+c/lm/lmtti10.pfb>
+Output written on "natural history of scavenging.pdf" (38 pages, 558819 bytes).
 
 PDF statistics:
- 503 PDF objects out of 1000 (max. 8388607)
- 313 compressed objects within 4 object streams
+ 358 PDF objects out of 1000 (max. 8388607)
+ 228 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.1.4)  10 AUG 2016 14:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.1.4)  11 AUG 2016 12:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -83,20 +83,10 @@ Overfull \hbox (39.23972pt too wide) in paragraph at lines 15--15
 [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Runaway argument?
-{We now emphasise that our scale is qualitative here and throughout t\ETC.
-! Paragraph ended before \@textcolor was complete.
-<to be read again> 
-                   \par 
-l.52 
-     
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ” in font cmr12!
+
 [2]
 Missing character: There is no Ã in font cmti12!
 Missing character: There is no ¡ in font cmti12!
@@ -107,49 +97,31 @@ Missing character: There is no “ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
- [4]
-! Too many }'s.
-l.119 ...ing on the species and the ecosystem.''}}
-                                                  
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
+ [4] [5] [6]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 155.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 155.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 155.
 
-[5] [6]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 154.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 154.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 154.
-
-Overfull \hbox (4.31158pt too wide) in paragraph at lines 153--155
+Overfull \hbox (4.31158pt too wide) in paragraph at lines 154--156
 \OT1/cmr/m/n/12 may have con-sumed more bone than penecon-tem-po-ra-ne-ous dire
  wolves $\OT1/cmtt/m/n/12 https :
  []
 
-Runaway argument?
-{We have paid particular attention towards making the structure or ou\ETC.
-! Paragraph ended before \@textcolor was complete.
-<to be read again> 
-                   \par 
-l.176 
-      
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 197--198
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
 
  []
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 206--207
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
 
  []
 
 [9]
-Overfull \hbox (7.75977pt too wide) in paragraph at lines 233--239
+Overfull \hbox (7.75977pt too wide) in paragraph at lines 234--240
 \OT1/cmr/m/n/12 Page 14, bot-tom para-graph, 3rd sen-tence: you may also con-si
 der Moreno-
  []
@@ -172,7 +144,7 @@ ype1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmtt12.pfb>
-Output written on response_letter.pdf (15 pages, 95782 bytes).
+Output written on response_letter.pdf (15 pages, 96011 bytes).
 PDF statistics:
  69 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream
